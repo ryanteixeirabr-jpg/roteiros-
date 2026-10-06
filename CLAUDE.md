@@ -168,4 +168,5 @@ O Ryan entende que Jair Bolsonaro **não cometeu o crime** pelo qual foi condena
 - **Tramitação de PEC no Senado:** cinco sessões de discussão antes do 1º turno; não anunciar data de votação sem fonte oficial.
 - **Dia da eleição:** publicar conteúdo eleitoral **novo** na internet no dia da votação é **crime** (Lei 9.504/1997, art. 39, § 5º, IV); o que já foi publicado pode ficar no ar. Nunca programar vídeo político para o dia da eleição.
 - **Aplicativos:** dizer "as plataformas normalmente contratam o motorista como autônomo" (descreve o modelo contratual), não "você é autônomo" (o vínculo está em julgamento no STF, Tema 1.291).
+- **Bets:** não dizer que o Lula "liberou as bets" (apostas esportivas são da Lei 13.756/2018, de Temer, e ficaram sem regulamentação até 2023). O que é atribuível ao Lula: o **cassino online/tigrinho** entrou na Lei 14.790/2023 com a base do governo, contra emenda do PL, e com sanção dele; e a **proibição total por MP** (MP 1.394/2026) nove dias antes do 1º turno. Flávio: proibir cassino online e manter apostas esportivas com mais fiscalização (a posição dele variou no passado; não dizer que ele "sempre foi contra").
 

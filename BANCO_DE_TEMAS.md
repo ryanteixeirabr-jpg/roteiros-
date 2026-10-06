@@ -21,6 +21,12 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
+## Bônus — Bets (7 roteiros), 06/10/2026 (roteirizado)
+
+Arquivo: `roteiros/curtos/ROTEIROS_BONUS_BETS_06102026.docx` (+ `.md` e `.zip`). Gancho: MP 1.394/2026 (Lula proibiu bets e cassino online em 25/9/2026; sites fora do ar em 6/10; devolução de saldos pelos bancos até 14/10).
+1. "Pai do tigrinho": o que diz a lei (cassino online entrou na Lei 14.790/2023 com a base do governo, contra emenda do PL). 2. Proibição por MP é pra valer? 3. Bets: o que cada candidato propõe. 4. Tinha dinheiro na bet e não sacou? (com prazo). 5. Endividado por aposta: Lei do Superendividamento (2021, governo Bolsonaro). 6. Apostar no trabalho dá justa causa? 7. SOLO: três fatos sobre as bets antes de votar.
+Ponto sensível: a crítica "a brecha foi de Temer e Bolsonaro (2018 a 2022)"; resposta nas notas.
+
 ## Cartela 06 — trabalhador em primeiro lugar (versão `_FINAL`), 06/10/2026 (revisada duas vezes e liberada)
 
 Segunda revisão (06/10/2026, após conferência externa): roteiro 1 (Flávio como signatário da PEC 12/2026), 4 ("em algumas medidas, de lei"), 5 (só motoristas; plano fala em flexibilidade com proteção social e previdenciária), 6 (alíquota zero só no Remessa Conforme; fora dele, 60%), 7 (Tema 1046 é de acordo/convenção coletiva) e 14 (regra objetiva dos dividendos). A votação da PEC da 6x1 no Senado não tem data: são cinco sessões de discussão antes do 1º turno.
