@@ -166,4 +166,6 @@ O Ryan entende que Jair Bolsonaro **não cometeu o crime** pelo qual foi condena
 - **Taxa das blusinhas:** a alíquota zero vale só no Programa Remessa Conforme; fora dele, 60%. ICMS de 17% ou 20% conforme o estado.
 - **Tema 1046 do STF** trata de acordos e convenções **coletivos**, não de acordo individual.
 - **Tramitação de PEC no Senado:** cinco sessões de discussão antes do 1º turno; não anunciar data de votação sem fonte oficial.
+- **Dia da eleição:** publicar conteúdo eleitoral **novo** na internet no dia da votação é **crime** (Lei 9.504/1997, art. 39, § 5º, IV); o que já foi publicado pode ficar no ar. Nunca programar vídeo político para o dia da eleição.
+- **Aplicativos:** dizer "as plataformas normalmente contratam o motorista como autônomo" (descreve o modelo contratual), não "você é autônomo" (o vínculo está em julgamento no STF, Tema 1.291).
 

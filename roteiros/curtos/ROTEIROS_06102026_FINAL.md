@@ -28,7 +28,7 @@
 
 **Ryan:** Qual proposta me dá mais escolha e mais chance de emprego com carteira assinada? Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. PONTO SENSÍVEL: o vídeo NÃO diz que o Flávio apoia o fim da 6x1 e NÃO promete mais folga (não dá pra afirmar sem ler o texto). Diz 'outro caminho' e 'opção'. Se perguntarem 'o Flávio é contra o fim da 6x1?': o plano dele não propõe o fim da 6x1; propõe a alternativa da jornada flexível opcional. Base: plano de Lula no TSE (jornada de 40 h sem redução de salário; PEC aprovada na Câmara em 27/5/2026 e na CCJ do Senado em 2/9/2026); PEC 12/2026 (autoria do Senador Rogério Marinho, 41 assinaturas, Flávio entre elas). Críticos chamam a PEC de 'escala 7x0' e dizem que ela acaba com o descanso semanal e a hora extra; as fontes divergem. ANDAMENTO: o plenário do Senado abriu a discussão da PEC da 6x1 em 6/10/2026. O regimento exige cinco sessões de discussão antes da votação em primeiro turno (só três foram marcadas, em 6, 7 e 8/10), e a tendência noticiada é votar depois do 2º turno. A frase 'ainda falta o plenário do Senado' só muda se a PEC for votada; conferir antes de postar. Resposta pronta ao '7x0' (atribuída ao autor): o senador Rogério Marinho afirma que a PEC mantém o limite de 44 horas semanais e o descanso semanal remunerado; os críticos contestam. Ler o texto oficial antes de responder. Reforço do argumento (só em comentário): com o mesmo salário, 44 h para 40 h deixa a hora 10% mais cara.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. PONTO SENSÍVEL: o vídeo NÃO diz que o Flávio apoia o fim da 6x1 e NÃO promete mais folga (não dá pra afirmar sem ler o texto). Diz 'outro caminho' e 'opção'. Se perguntarem 'o Flávio é contra o fim da 6x1?': o plano dele não propõe o fim da 6x1; propõe a alternativa da jornada flexível opcional. Base: plano de Lula no TSE (jornada de 40 h sem redução de salário; PEC aprovada na Câmara em 27/5/2026 e na CCJ do Senado em 2/9/2026); PEC 12/2026 (autoria do Senador Rogério Marinho, 41 assinaturas, Flávio entre elas). Críticos chamam a PEC de 'escala 7x0' e dizem que ela acaba com o descanso semanal e a hora extra; as fontes divergem. ANDAMENTO: o plenário do Senado abriu a discussão da PEC da 6x1 em 6/10/2026. O regimento exige cinco sessões de discussão antes da votação em primeiro turno (só três foram marcadas, em 6, 7 e 8/10), e a tendência noticiada é votar depois do 2º turno, embora um calendário especial possa encurtar os prazos. A frase 'ainda falta o plenário do Senado' só muda se a PEC for votada; conferir antes de postar. Resposta pronta ao '7x0' (atribuída ao autor): o senador Rogério Marinho afirma que a PEC mantém o limite de 44 horas semanais e o descanso semanal remunerado; os críticos contestam. Ler o texto oficial antes de responder. Reforço do argumento (só em comentário): com o mesmo salário, 44 h para 40 h deixa a hora 10% mais cara.*
 
 ---
 
@@ -134,7 +134,7 @@
 
 **Vitor:** Dr. Ryan, sou motorista de aplicativo. Os candidatos falam alguma coisa de mim?
 
-**Ryan:** Falam. Hoje, na maioria dos casos, você é autônomo. Se existe ou não vínculo de emprego, quem decide é a Justiça, e o STF está julgando isso no Tema 1.291, mas ainda não terminou.
+**Ryan:** Falam. Hoje, as plataformas normalmente contratam o motorista como autônomo. Se existe ou não vínculo de emprego, quem decide é a Justiça, e o STF está julgando isso no Tema 1.291, mas ainda não terminou.
 
 **Vitor:** E o governo Lula?
 
@@ -386,5 +386,5 @@ Terceira pergunta: quem mexe no meu bolso? A taxa das blusinhas, sancionada em 2
 
 Leia os planos de governo, que estão no site do TSE, e decida com a cabeça. Comenta aqui qual dessas perguntas pesa mais pra você, segue o Dr. Ryan e compartilha com quem ainda está em dúvida.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Roteiro de opinião sobre critérios de escolha. Fatos citados (desoneração, taxa das blusinhas, Lei 15.270/2025) estão nas notas dos roteiros 6 e 8; CONFERIR antes de gravar. Conteúdo orgânico do perfil; sem impulsionamento por terceiros. Se comentarem 'isso é propaganda': é opinião do Ryan como cidadão e advogado.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Roteiro de opinião sobre critérios de escolha. Fatos citados (desoneração, taxa das blusinhas, Lei 15.270/2025) estão nas notas dos roteiros 6 e 8; CONFERIR antes de gravar. Conteúdo orgânico do perfil pessoal (nunca no perfil do escritório); sem impulsionamento. DIA 25/10: publicar conteúdo eleitoral novo na internet no dia da eleição é crime (Lei 9.504/1997, art. 39, § 5º, IV); os vídeos já publicados podem ficar no ar. Programar os vídeos políticos para outros dias. Se comentarem 'isso é propaganda': é opinião do Ryan como cidadão e advogado.*
 
