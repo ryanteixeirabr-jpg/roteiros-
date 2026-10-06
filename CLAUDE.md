@@ -120,3 +120,13 @@ Conteúdo curto, natural e popular de um advogado, usando temas que dominam o Br
 - **Direcionamento:** a linha é **pró-Flávio Bolsonaro nestas eleições**, sem escancarar. O método que ele quer: escolher temas **favoráveis à direita** e **responder juridicamente às críticas que são feitas à direita** (ex.: "anistia é ilegal?" → a Constituição dá ao Congresso o poder de anistiar; as vedações são só estas; o STF tem a palavra final). Tudo com base verificada, atribuindo à defesa o que for tese da defesa e sem afirmar como certo o que o STF ainda não decidiu.
 - **Evitar** cartela "neutra": ele considera neutralidade como inclinação para o lado oposto.
 
+### Alcance e clareza (3ª correção do Ryan, 06/10/2026)
+
+Todo roteiro precisa atingir **público amplo** e ser **entendido por qualquer pessoa**, sem exigir conhecimento jurídico. Checklist antes de entregar:
+- Frases curtas, linguagem falada, sem juridiquês. Todo termo técnico (ex.: "responsabilidade subsidiária", "integra a remuneração", "liminar") vira uma frase do dia a dia ou é cortado.
+- Não falar número de artigo em voz alta se não agregar (fica na nota interna).
+- A **primeira fala do Vitor** é uma situação concreta do cotidiano ("meu patrão fez X, pode?"), não uma pergunta técnica.
+- Título claro e com gancho, em forma de pergunta ou promessa que qualquer pessoa entenda.
+- Preferir temas de **grande interesse popular** (salário, demissão, FGTS, 13º, contracheque, MEI, encargos, home office, benefícios). Evitar tema nichado ou histórico sem uso hoje.
+- Fatos, números e exemplos sempre conferidos; exemplo numérico simples ajuda (ex.: salário de R$ 3.000).
+

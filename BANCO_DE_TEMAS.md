@@ -21,7 +21,11 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
-## Cartela 04 — Trabalho + direita, 06/10/2026 (roteirizada)
+## Cartela 04 — versão revisada para público amplo, 06/10/2026 (roteirizada)
+
+Arquivo: `roteiros/curtos/ROTEIROS_06102026_C.docx` (+ `.md` e `.zip`). Substitui a versão `_B` (linguagem simplificada, aberturas com situação do dia a dia, temas de maior alcance). Entraram "MEI pode ter funcionário?" e "Quanto custa um funcionário pra empresa?"; saíram o roteiro da pandemia e o de livre iniciativa.
+
+## Cartela 04 (versão anterior, `_B`) — Trabalho + direita, 06/10/2026 (roteirizada)
 
 Arquivo: `roteiros/curtos/ROTEIROS_06102026_B.docx` (+ `.md` e `.zip`). Nove de trabalho, quatro de eleição/direito e dois solos; tamanhos variados (de 5 a 14 trocas). Pedido do Ryan: pró-Flávio, sem escancarar, respondendo às críticas feitas à direita.
 
