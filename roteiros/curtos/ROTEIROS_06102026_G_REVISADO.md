@@ -28,7 +28,7 @@
 
 **Ryan:** Qual proposta me dá mais escolha e mais chance de emprego com carteira assinada? Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. PONTO SENSÍVEL: o vídeo NÃO diz que o Flávio apoia o fim da 6x1 e NÃO promete mais folga (não dá pra afirmar sem ler o texto). Diz 'outro caminho' e 'opção'. Se perguntarem 'o Flávio é contra o fim da 6x1?': o plano dele não propõe o fim da 6x1; propõe a alternativa da jornada flexível opcional. Base: plano de Lula no TSE (jornada de 40 h sem redução de salário; PEC aprovada na Câmara em 27/5/2026 e na CCJ do Senado em 2/9/2026); PEC 12/2026 (autoria do Senador Rogério Marinho, 41 assinaturas, Flávio entre elas). Críticos chamam a PEC de 'escala 7x0' e dizem que ela acaba com o descanso semanal e a hora extra; as fontes divergem. LEIA O TEXTO OFICIAL no Senado antes de gravar e antes de responder. Reforço do argumento (só em comentário): com o mesmo salário, 44 h para 40 h deixa a hora 10% mais cara.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. PONTO SENSÍVEL: o vídeo NÃO diz que o Flávio apoia o fim da 6x1 e NÃO promete mais folga (não dá pra afirmar sem ler o texto). Diz 'outro caminho' e 'opção'. Se perguntarem 'o Flávio é contra o fim da 6x1?': o plano dele não propõe o fim da 6x1; propõe a alternativa da jornada flexível opcional. Base: plano de Lula no TSE (jornada de 40 h sem redução de salário; PEC aprovada na Câmara em 27/5/2026 e na CCJ do Senado em 2/9/2026); PEC 12/2026 (autoria do Senador Rogério Marinho, 41 assinaturas, Flávio entre elas). Críticos chamam a PEC de 'escala 7x0' e dizem que ela acaba com o descanso semanal e a hora extra; as fontes divergem. PRAZO: o plenário do Senado começou a discutir a PEC da 6x1 em 6/10/2026, com votação prevista para 8/10. Gravar e postar antes do resultado; se a PEC for votada, a frase 'ainda falta o plenário do Senado' precisa ser trocada. Resposta pronta ao '7x0' (atribuída ao autor): o senador Rogério Marinho afirma que a PEC mantém o limite de 44 horas semanais e o descanso semanal remunerado; os críticos contestam. Ler o texto oficial antes de responder. Reforço do argumento (só em comentário): com o mesmo salário, 44 h para 40 h deixa a hora 10% mais cara.*
 
 ---
 
@@ -62,7 +62,7 @@
 
 **Ryan:** Não. É uma PEC e depende do Congresso. Quem decide é o Congresso que foi eleito agora. Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. NÃO AFIRMAR no vídeo nada sobre repouso semanal, hora extra ou limite de 44 h sem ler o texto: críticos dizem que a PEC elimina o descanso semanal obrigatório e a hora extra; defensores dizem que mantém o limite de 44 h e que o contrato individual não impede acordos coletivos. Base: PEC 12/2026 (opção entre CLT e regime flexível por hora; valor mínimo da hora proporcional ao salário mínimo ou piso; direitos proporcionais; livre pactuação direta, com possibilidade de o contrato individual prevalecer sobre instrumentos coletivos). Intermitente: STF, ADIs 5826, 5829 e 6154 (13/12/2024). Resposta ao 'isso é 7x0': só depois de ler o texto.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. NÃO AFIRMAR no vídeo nada sobre repouso semanal, hora extra ou limite de 44 h sem ler o texto: críticos dizem que a PEC elimina o descanso semanal obrigatório e a hora extra; defensores dizem que mantém o limite de 44 h e que o contrato individual não impede acordos coletivos. Base: PEC 12/2026 (opção entre CLT e regime flexível por hora; valor mínimo da hora proporcional ao salário mínimo ou piso; direitos proporcionais; livre pactuação direta, com possibilidade de o contrato individual prevalecer sobre instrumentos coletivos). Intermitente: STF, ADIs 5826, 5829 e 6154 (13/12/2024). Resposta ao 'isso é 7x0' (atribuída ao autor): o senador Rogério Marinho afirma que a PEC mantém o limite de 44 horas semanais e o descanso semanal remunerado; os críticos contestam. Ler o texto oficial antes de responder.*
 
 ---
 
@@ -164,7 +164,7 @@
 
 **Vitor:** Dr. Ryan, acabou a taxa das blusinhas?
 
-**Ryan:** O imposto federal de 20% sobre compras internacionais de até 50 dólares acabou. O presidente Lula sancionou o fim em setembro de 2026, poucas semanas antes da eleição.
+**Ryan:** O imposto federal de 20% sobre compras internacionais de até 50 dólares foi zerado. Foi por uma medida provisória do próprio Lula, em maio de 2026, ano de eleição. Em setembro, ele sancionou a lei que confirmou isso.
 
 **Vitor:** Quem criou essa taxa?
 
@@ -172,7 +172,7 @@
 
 **Vitor:** Quanto o consumidor pagou nesse período?
 
-**Ryan:** 20% de imposto federal mais 17% de ICMS, que é calculado por dentro. Na prática, passava de 40% do valor da compra.
+**Ryan:** 20% de imposto federal mais o ICMS do estado, de 17% ou 20%, calculado por dentro. Na prática, passava de 40% do valor da compra.
 
 **Vitor:** E agora?
 
@@ -182,7 +182,7 @@
 
 **Ryan:** O consumidor merece saber quem criou o imposto, quem manteve e em que momento decidiu acabar. Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: Lei 14.902/2024 (sancionada em 28/6/2024 por Lula; imposto de importação de 20% sobre compras de até US$ 50, desde 1/8/2024); ICMS de 17% mantido pelos estados; segundo a imprensa, o fim do imposto federal foi sancionado em setembro de 2026, a cerca de 24 dias da eleição. CONFERIR a lei do fim da taxa e a data de vigência antes de gravar. O vídeo não afirma a posição do Flávio sobre o tema (não verificada) nem ilegalidade na data da sanção.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral (revisado em 06/10/2026). Base: Lei 14.902/2024 (sancionada por Lula em 28/6/2024; 20% de imposto de importação sobre compras de até US$ 50, desde 1/8/2024); MP 1.357/2026, de 12/5/2026, assinada por Lula, que zerou o imposto; Lei 15.502/2026, sancionada em 10/9/2026, que converteu a MP e autoriza alíquota zero até US$ 50. ICMS: 17% na maioria dos estados e 20% em AC, AL, BA, CE, MG, PB, PI, RN, RR e SE desde 1/4/2025. Se comentarem 'o PL também votou a favor': a votação foi simbólica e quem sancionou, sem vetar a taxa, foi o Lula. O vídeo não afirma a posição do Flávio sobre o tema.*
 
 ---
 
@@ -366,11 +366,11 @@ Quarto: em 2022, a lei Emprega Mais Mulheres criou jornada flexível, prioridade
 
 E o plano do Flávio? Um regime opcional por hora, com carteira assinada. Contrato com custo menor pra quem busca o primeiro emprego e pra quem tem mais de 50 anos e está desempregado. A Central da Mulher. E o plano diz que programas como o Bolsa Família serão ponto de partida pro emprego e pra autonomia.
 
-E do outro lado? O governo Lula foi ao STF contra a desoneração da folha, que protegia vagas, e criou a taxa das blusinhas em 2024, que só acabou em setembro de 2026.
+E do outro lado? O governo Lula foi ao STF contra a desoneração da folha, que protegia vagas, e sancionou a taxa das blusinhas em 2024, que só foi zerada em maio de 2026, em ano de eleição.
 
 Fato ou mentira? Confere e decide. Comenta aqui, segue o Dr. Ryan e manda pra quem diz que a direita é contra o trabalhador.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CF, art. 7º; Lei 13.467/2017; CLT, arts. 578 a 580; Lei 14.020/2020 (BEm, sancionada em julho de 2020); Lei 14.457/2022; plano de Flávio (regime por hora, contratos de menor custo, Central da Mulher; programas como o Bolsa Família como ponto de partida para emprego e autonomia, segundo a imprensa); desoneração da folha; Lei 14.902/2024 e o fim da taxa em setembro de 2026. CONFERIR a frase sobre o Bolsa Família no texto do plano antes de gravar; se não constar, cortar. NÃO usar o tema dos descontos do INSS como crítica ao governo: o esquema vai de 2019 a 2024 e a CPMI teve relatório da maioria pedindo o indiciamento do Flávio (ele contesta). Críticas esperadas: 'a reforma precarizou'; resposta: os direitos da Constituição ficaram, e o vídeo trata de fatos específicos.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CF, art. 7º; Lei 13.467/2017; CLT, arts. 578 a 580; Lei 14.020/2020 (BEm, sancionada em julho de 2020); Lei 14.457/2022; plano de Flávio (regime por hora, contratos de menor custo, Central da Mulher; programas como o Bolsa Família como ponto de partida para emprego e autonomia, segundo a imprensa); desoneração da folha; Lei 14.902/2024 e MP 1.357/2026 (zerou a taxa em 12/5/2026). Bolsa Família conferido: o plano registrado no TSE trata a proteção social como 'ponto de partida' para qualificação, emprego, crédito e patrimônio, com 'porta de saída' (CNN Brasil); se comentarem 'o plano torna o Bolsa Família temporário', responder que o plano prevê volta ao benefício se a pessoa perder o emprego. NÃO usar o tema dos descontos do INSS como crítica ao governo: o esquema vai de 2019 a 2024 e a CPMI teve relatório da maioria pedindo o indiciamento do Flávio (ele contesta). Críticas esperadas: 'a reforma precarizou'; resposta: os direitos da Constituição ficaram, e o vídeo trata de fatos específicos.*
 
 ---
 
@@ -382,7 +382,7 @@ Primeira pergunta: quem me dá escolha? Cada pessoa vive uma realidade. Tem quem
 
 Segunda pergunta: quem abre vaga com carteira assinada pra mim, pro meu filho, pro meu pai que está desempregado? Olhe quem propõe baixar o custo de contratar, e quem foi ao STF contra a desoneração da folha.
 
-Terceira pergunta: quem mexe no meu bolso? A taxa das blusinhas foi criada em 2024 e só acabou em setembro de 2026. O imposto sobre dividendos agora pesa em quem tem empresa e gera emprego. Pergunte quem promete reduzir a carga de quem produz e de quem consome.
+Terceira pergunta: quem mexe no meu bolso? A taxa das blusinhas, sancionada em 2024, só foi zerada em maio de 2026, em ano de eleição. O imposto sobre dividendos agora pesa em quem tem empresa e gera emprego. Pergunte quem promete reduzir a carga de quem produz e de quem consome.
 
 Leia os planos de governo, que estão no site do TSE, e decida com a cabeça. Comenta aqui qual dessas perguntas pesa mais pra você, segue o Dr. Ryan e compartilha com quem ainda está em dúvida.
 

@@ -21,7 +21,9 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
-## Cartela 06 — trabalhador em primeiro lugar (versão `_G`), 06/10/2026 (roteirizada)
+## Cartela 06 — trabalhador em primeiro lugar (versão `_G_REVISADO`), 06/10/2026 (revisada e liberada para gravação)
+
+Revisão ROT de 06/10/2026: corrigidos os roteiros 6, 13 e 14 (a taxa das blusinhas foi zerada pela MP 1.357/2026 em 12/5/2026, e não em setembro; ICMS de 17% ou 20% conforme o estado; 'sancionou' no lugar de 'criou'). Roteiro 1 com prazo: postar antes da votação da PEC da 6x1 no Senado, prevista para 8/10/2026.
 
 Arquivo: `roteiros/curtos/ROTEIROS_06102026_G.docx` (+ `.md` e `.zip`). Substitui a `_F`. Sete roteiros políticos com lente do trabalhador (6x1/escolha, trabalho por hora, primeiro emprego e 50+, mulher trabalhadora, apps, taxa das blusinhas, reforma e bolso), um solo sobre custo de contratar, quatro de direito evergreen (hora extra, 13º, demissão, banco de horas) e dois solos ("Dizem que a direita é contra o trabalhador. Fato ou mentira?" e "Três perguntas antes do dia 25"). Não usa o tema do INSS contra o governo (risco: esquema de 2019 a 2024 e relatório da CPMI citando o Flávio).
 
