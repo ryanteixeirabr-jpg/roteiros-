@@ -139,3 +139,10 @@ O Ryan entende que Jair Bolsonaro **não cometeu o crime** pelo qual foi condena
 - Se o Ryan quiser dizer a opinião dele (ex.: "na minha visão ele não cometeu crime"), ele pede expressamente; não colocar isso na boca dele por conta própria.
 - Antes de entregar, **varrer todo roteiro** buscando termos que soem contra ele (ex-presidente condenado, crime grave, golpe, inelegível aceito como certo).
 
+### Definição de "pró" e uso do hype eleitoral (5ª correção do Ryan, 06/10/2026)
+
+- **"Pró-Flávio/Bolsonaro" = também contrastar com o Lula**, não só elogiar. Contexto geral: mostrar o que cada lado propõe e fez, com os fatos que favorecem a direita e as críticas cabíveis ao governo Lula, **sempre com base verificada**, atribuindo cada ponto a quem o defende e sem inventar dado nem atribuir a ninguém o que não foi dito.
+- **Aproveitar o hype da eleição usando as propostas oficiais:** partir dos **planos de governo registrados no TSE** (jurídico e trabalhista) e de fatos recentes (6x1, contrato por hora, desoneração da folha, IR/dividendos, IOF, apps, STF, reforma trabalhista). O modelo é a cartela `ROTEIROS_06102026_E`.
+- Cada roteiro explica o direito/impacto em linguagem simples, mostra a diferença entre os candidatos e termina com uma **pergunta ao eleitor** (qual caminho cria mais emprego com carteira, dá mais escolha, dá mais segurança jurídica).
+- Mantém-se: nada que soe contra Jair Bolsonaro; críticas esperadas dos comentários ficam na **nota interna**; conteúdo é orgânico (sem impulsionamento por terceiros).
+

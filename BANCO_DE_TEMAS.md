@@ -21,6 +21,12 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
+## Cartela 05 — Propostas dos candidatos (jurídico e trabalhista), 06/10/2026 (roteirizada)
+
+Arquivo: `roteiros/curtos/ROTEIROS_06102026_E.docx` (+ `.md` e `.zip`). Contraste Lula x Flávio com base nos planos de governo e em fatos, 12 em pergunta e resposta e 2 solos.
+
+1. Fim da 6x1 ou trabalho por hora. 2. Trabalho por hora com carteira (PEC 12/2026). 3. Quem muda a CLT: presidente ou Congresso. 4. Desoneração da folha. 5. IR até R$ 5 mil e dividendos. 6. IOF por decreto e a decisão do STF. 7. Motorista de app: CLT ou autônomo. 8. Vão mexer na reforma trabalhista? 9. Limitar decisão de ministro do STF. 10. Plano de governo é promessa ou obrigação? 11. Fim da 6x1 e o pequeno empresário. 12. Contrato mais barato para jovens e 50+. 13. SOLO: três propostas que mexem no seu emprego. 14. SOLO: três perguntas antes do dia 25.
+
 ## Cartela 04 — versão final `_D`, 06/10/2026 (roteirizada)
 
 Arquivo: `roteiros/curtos/ROTEIROS_06102026_D.docx` (+ `.md` e `.zip`). Substitui as versões `_B` e `_C`. Mudanças: o roteiro de anistia deixou de antecipar argumentos contrários e o de inelegibilidade passou a rebater a crítica ("o filho não pode concorrer") sem dar a decisão sobre o pai como acertada.
