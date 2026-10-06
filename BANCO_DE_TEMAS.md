@@ -42,6 +42,27 @@ Arquivo: `roteiros/curtos/cartela_eleicao_2turno_01.docx` (+ `.md` e `.zip`). To
 | 13 | Pedido de vista no STF (prazo de 90 dias) | Decisões judiciais | Ambos | 🟡 |
 | 14 | O que o presidente pode sozinho x Congresso | Institucional | Ambos | 🟢 |
 
+## Cartela 02 — Eleições 2026 / Instituições, liberdades e trabalho (roteirizada em 06/10/2026)
+
+Arquivo: `roteiros/curtos/cartela_eleicao_2turno_02.docx` (+ `.md` e `.zip`). Pergunta e resposta (Ryan + Vitor), status **Roteirizada**. Pedido do Ryan: lente jurídica com inclinação à direita, sem explicitar, "para bom entendedor meia palavra basta". Nenhum roteiro cita candidato.
+
+| # | Tema | Área |
+|---|---|---|
+| 1 | Pai inelegível, filho também? (inelegibilidade é pessoal) | Eleitoral |
+| 2 | Anistia x dosimetria x indulto/graça | Penal / Congresso e STF |
+| 3 | Ministro do STF decidir sozinho (PEC 8/2021) | Institucional |
+| 4 | Imunidade parlamentar | Institucional |
+| 5 | Investigação aberta pra sempre? (prazo, devido processo) | Processo penal |
+| 6 | Pesquisa errou, instituto pode ser punido? | Eleitoral |
+| 7 | Pastor pedir voto no culto | Liberdade religiosa / eleitoral |
+| 8 | Dá pra fiscalizar a urna? | Eleitoral |
+| 9 | Ponto até 20 funcionários (Lei da Liberdade Econômica) | Trabalho / empresário |
+| 10 | PJ em vez de CLT (Tema 1389 do STF) | Trabalho / empresário |
+| 11 | Fim da escala 6x1 (PEC) | Trabalho / Congresso |
+| 12 | Criticar ministro do STF é crime? | Liberdade de expressão |
+| 13 | Sindicato descontar sem autorização | Trabalho |
+| 14 | Negociado x legislado (Tema 1046) | Trabalho |
+
 ## Pautas — Direito do Trabalho
 
 *(vazio)*
