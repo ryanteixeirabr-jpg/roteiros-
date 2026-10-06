@@ -208,33 +208,33 @@
 
 **Vitor:** Dr. Ryan, falam que anistia é ilegal. Isso é verdade?
 
-**Ryan:** Não é o que a Constituição diz. Ela dá ao Congresso o poder de aprovar anistia. Está no artigo 48.
+**Ryan:** Não. A anistia está prevista na Constituição. O artigo 48 dá ao Congresso Nacional o poder de aprovar anistia.
 
 **Vitor:** O que é anistia?
 
-**Ryan:** É uma lei que apaga o crime. O fato deixa de ser punido.
+**Ryan:** É uma lei que apaga a punição de um fato. E quem decide é o Congresso, que representa o povo.
 
 **Vitor:** Então qualquer crime pode ser anistiado?
 
-**Ryan:** Não. A Constituição proíbe para tortura, tráfico de drogas, terrorismo e crimes hediondos. Fora dessa lista, não existe proibição escrita.
+**Ryan:** A Constituição só proíbe anistia pra tortura, tráfico de drogas, terrorismo e crimes hediondos. Fora essa lista, não existe proibição escrita.
 
-**Vitor:** E crime contra a democracia?
+**Vitor:** Então quem diz que anistia é proibida tem base?
 
-**Ryan:** A Constituição diz que atacar a ordem constitucional é crime grave, que não prescreve e não admite fiança. Mas ela não diz que não pode ter anistia. Quem afirma que é proibido precisa apontar qual artigo proíbe.
+**Ryan:** Quem diz isso precisa mostrar qual artigo proíbe. A lista da Constituição é a que eu acabei de falar.
 
-**Vitor:** O Brasil já teve anistia?
+**Vitor:** O Brasil já usou anistia?
 
-**Ryan:** Já. A de 1979. E em 2010 o STF disse que essa lei é compatível com a Constituição.
+**Ryan:** Já. A Lei da Anistia, de 1979, ajudou o país a virar a página e voltar à democracia. E em 2010 o STF disse que essa lei está de acordo com a Constituição.
 
-**Vitor:** E quem decide no final?
+**Vitor:** E como se faz uma anistia?
 
-**Ryan:** O Congresso vota. O presidente sanciona ou veta, e o Congresso pode derrubar o veto. Se alguém questionar, o STF analisa se a lei respeita a Constituição.
+**Ryan:** O Congresso vota, o presidente sanciona ou veta, e o Congresso pode derrubar o veto. É o jeito democrático de decidir.
 
-**Vitor:** Então tem debate?
+**Vitor:** Então o que dizer pra quem fala que anistia é ilegal?
 
-**Ryan:** Tem. Mas dizer como certeza absoluta que anistia é ilegal é simplificar demais. Segue o Dr. Ryan.
+**Ryan:** Que o que está escrito na Constituição é o contrário: o Congresso tem esse poder. Dizer que anistia, em si, é ilegal é ignorar o que a lei diz. Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CF, art. 48, VIII; art. 5º, XLIII e XLIV; STF, ADPF 153 (2010). Ressalva: há corrente que sustenta a invalidade de anistia para crimes contra o Estado democrático, e o STF tem a palavra final. O vídeo diz que não há vedação expressa e que o debate é legítimo; não diz que é constitucional em qualquer caso. CONFERIR se houve decisão nova do STF sobre anistia antes de gravar.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CF, art. 48, VIII; art. 5º, XLIII; Lei 6.683/1979; STF, ADPF 153 (2010). O roteiro não cita nenhuma pessoa e não discute o mérito de nenhum processo. USO INTERNO, para responder comentário: há quem sustente que anistia a crimes contra o Estado democrático seria inválida (a Constituição trata a ação de grupos armados contra a ordem constitucional como crime inafiançável e imprescritível, mas não diz que não admite anistia); se perguntarem, responder que a Constituição não traz essa vedação expressa e que, se a lei for questionada, o STF decide. CONFERIR se houve decisão nova do STF sobre anistia antes de gravar.*
 
 ---
 
@@ -294,25 +294,29 @@
 
 ---
 
-## ROTEIRO 11 — FILHO DE EX-PRESIDENTE INELEGÍVEL PODE SER CANDIDATO?
+## ROTEIRO 11 — PAI INELEGÍVEL: O FILHO PODE SER CANDIDATO?
 
-**Vitor:** Dr. Ryan, o candidato é filho de um ex-presidente inelegível. Pode concorrer?
+**Vitor:** Dr. Ryan, tem gente dizendo que o candidato nem poderia concorrer porque o pai é inelegível. Isso é verdade?
 
-**Ryan:** Pode. Inelegibilidade é pessoal. Quem fica impedido é quem recebeu a punição, não os parentes.
+**Ryan:** Não. Inelegibilidade é pessoal. Ela vale pra pessoa que foi atingida, nunca pra família dela.
 
-**Vitor:** Mas não existe regra de parentesco?
+**Vitor:** Mas não existe uma regra de parentesco na lei?
 
-**Ryan:** Existe, mas é outra coisa. Ela impede que cônjuge e parentes do presidente, do governador ou do prefeito em exercício concorram no mesmo território, pra evitar que o governante passe o poder pra família. Ex-presidente fora do cargo não se enquadra.
+**Ryan:** Existe, mas é outra coisa. Ela impede que a esposa e os parentes de um presidente, governador ou prefeito que está no cargo concorram no mesmo território, pra evitar que o governante passe o poder pra família. Quem já saiu do cargo não entra nessa regra.
 
-**Vitor:** Quem decide se o candidato pode concorrer?
+**Vitor:** Então o filho pode concorrer?
 
-**Ryan:** A Justiça Eleitoral, quando analisa o registro da candidatura. Ele está concorrendo porque o registro foi analisado e aceito.
+**Ryan:** Pode. A Constituição e a lei são claras: cada um responde pelo que é seu.
 
-**Vitor:** Então cada um responde por si?
+**Vitor:** E quem decide se o candidato pode concorrer ou não?
 
-**Ryan:** Juridicamente, sim. Cada um responde pelos seus atos. Vale pra todo mundo. Segue o Dr. Ryan.
+**Ryan:** A Justiça Eleitoral, quando analisa o registro da candidatura. E o registro dele foi analisado e aceito.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CF, art. 14, § 7º; LC 64/1990; TSE declarou em 2023 a inelegibilidade de Jair Bolsonaro por oito anos a contar de 2022. O vídeo não nomeia ninguém. CONFERIR que o registro segue deferido antes de gravar.*
+**Vitor:** E o pai?
+
+**Ryan:** Esse é um assunto dele, que tem o direito de se defender como qualquer cidadão. O filho tem a situação dele. Segue o Dr. Ryan.
+
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CF, art. 14, § 7º (inelegibilidade reflexa: parentes do titular do cargo, ou de quem o tenha substituído nos seis meses anteriores, no território da jurisdição dele); LC 64/1990. O roteiro não afirma que a decisão sobre o pai está certa ou errada e não cita o mérito dela. CONFERIR que o registro da candidatura segue deferido antes de gravar.*
 
 ---
 

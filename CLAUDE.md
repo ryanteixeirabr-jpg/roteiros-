@@ -130,3 +130,12 @@ Todo roteiro precisa atingir **público amplo** e ser **entendido por qualquer p
 - Preferir temas de **grande interesse popular** (salário, demissão, FGTS, 13º, contracheque, MEI, encargos, home office, benefícios). Evitar tema nichado ou histórico sem uso hoje.
 - Fatos, números e exemplos sempre conferidos; exemplo numérico simples ajuda (ex.: salário de R$ 3.000).
 
+### Cuidado com o enquadramento sobre Jair Bolsonaro (4ª correção do Ryan, 06/10/2026)
+
+O Ryan entende que Jair Bolsonaro **não cometeu o crime** pelo qual foi condenado e discorda da inelegibilidade dele. Regras para os roteiros:
+- **Nunca** escrever uma fala do Ryan que pareça **contra** Bolsonaro, nem que dê por **assentada** a culpa, a condenação ou a inelegibilidade como acerto da decisão. Não repetir a acusação nem os fundamentos da decisão dentro do vídeo.
+- **Não antecipar argumentos da parte contrária** no texto gravado (ex.: "crime grave, imprescritível", "tem debate", "é simplificar demais" em anistia). Esses pontos ficam **só na nota interna**, para o Ryan responder comentários.
+- Fatos continuam fatos (houve condenação pelo STF; o TSE declarou inelegibilidade em 2023): o roteiro **não os nega nem os afirma como acertados**; fala da regra jurídica geral e deixa a decisão como "assunto dele, que tem o direito de se defender".
+- Se o Ryan quiser dizer a opinião dele (ex.: "na minha visão ele não cometeu crime"), ele pede expressamente; não colocar isso na boca dele por conta própria.
+- Antes de entregar, **varrer todo roteiro** buscando termos que soem contra ele (ex-presidente condenado, crime grave, golpe, inelegível aceito como certo).
+

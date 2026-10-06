@@ -21,7 +21,11 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
-## Cartela 04 — versão revisada para público amplo, 06/10/2026 (roteirizada)
+## Cartela 04 — versão final `_D`, 06/10/2026 (roteirizada)
+
+Arquivo: `roteiros/curtos/ROTEIROS_06102026_D.docx` (+ `.md` e `.zip`). Substitui as versões `_B` e `_C`. Mudanças: o roteiro de anistia deixou de antecipar argumentos contrários e o de inelegibilidade passou a rebater a crítica ("o filho não pode concorrer") sem dar a decisão sobre o pai como acertada.
+
+## (histórico) Cartela 04 — versão revisada para público amplo, 06/10/2026 (roteirizada)
 
 Arquivo: `roteiros/curtos/ROTEIROS_06102026_C.docx` (+ `.md` e `.zip`). Substitui a versão `_B` (linguagem simplificada, aberturas com situação do dia a dia, temas de maior alcance). Entraram "MEI pode ter funcionário?" e "Quanto custa um funcionário pra empresa?"; saíram o roteiro da pandemia e o de livre iniciativa.
 
