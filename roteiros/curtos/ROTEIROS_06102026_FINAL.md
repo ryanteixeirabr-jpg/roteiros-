@@ -10,7 +10,7 @@
 
 **Vitor:** E o Flávio?
 
-**Ryan:** O Flávio propõe outro caminho, o da escolha. O plano dele prevê um regime opcional, com carteira assinada e pago por hora trabalhada, com FGTS, férias e 13º proporcionais. A proposta está na PEC 12/2026, que tem a assinatura de 41 senadores, entre eles o próprio Flávio.
+**Ryan:** O Flávio apoia outro caminho, o da escolha. Ele é um dos 41 senadores que assinaram a PEC 12/2026, que prevê um regime opcional, com carteira assinada e pagamento por hora trabalhada, com FGTS, férias e 13º proporcionais.
 
 **Vitor:** Eu seria obrigado a trocar de regime?
 
@@ -28,7 +28,7 @@
 
 **Ryan:** Qual proposta me dá mais escolha e mais chance de emprego com carteira assinada? Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. PONTO SENSÍVEL: o vídeo NÃO diz que o Flávio apoia o fim da 6x1 e NÃO promete mais folga (não dá pra afirmar sem ler o texto). Diz 'outro caminho' e 'opção'. Se perguntarem 'o Flávio é contra o fim da 6x1?': o plano dele não propõe o fim da 6x1; propõe a alternativa da jornada flexível opcional. Base: plano de Lula no TSE (jornada de 40 h sem redução de salário; PEC aprovada na Câmara em 27/5/2026 e na CCJ do Senado em 2/9/2026); PEC 12/2026 (autoria do Senador Rogério Marinho, 41 assinaturas, Flávio entre elas). Críticos chamam a PEC de 'escala 7x0' e dizem que ela acaba com o descanso semanal e a hora extra; as fontes divergem. PRAZO: o plenário do Senado começou a discutir a PEC da 6x1 em 6/10/2026, com votação prevista para 8/10. Gravar e postar antes do resultado; se a PEC for votada, a frase 'ainda falta o plenário do Senado' precisa ser trocada. Resposta pronta ao '7x0' (atribuída ao autor): o senador Rogério Marinho afirma que a PEC mantém o limite de 44 horas semanais e o descanso semanal remunerado; os críticos contestam. Ler o texto oficial antes de responder. Reforço do argumento (só em comentário): com o mesmo salário, 44 h para 40 h deixa a hora 10% mais cara.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. PONTO SENSÍVEL: o vídeo NÃO diz que o Flávio apoia o fim da 6x1 e NÃO promete mais folga (não dá pra afirmar sem ler o texto). Diz 'outro caminho' e 'opção'. Se perguntarem 'o Flávio é contra o fim da 6x1?': o plano dele não propõe o fim da 6x1; propõe a alternativa da jornada flexível opcional. Base: plano de Lula no TSE (jornada de 40 h sem redução de salário; PEC aprovada na Câmara em 27/5/2026 e na CCJ do Senado em 2/9/2026); PEC 12/2026 (autoria do Senador Rogério Marinho, 41 assinaturas, Flávio entre elas). Críticos chamam a PEC de 'escala 7x0' e dizem que ela acaba com o descanso semanal e a hora extra; as fontes divergem. ANDAMENTO: o plenário do Senado abriu a discussão da PEC da 6x1 em 6/10/2026. O regimento exige cinco sessões de discussão antes da votação em primeiro turno (só três foram marcadas, em 6, 7 e 8/10), e a tendência noticiada é votar depois do 2º turno. A frase 'ainda falta o plenário do Senado' só muda se a PEC for votada; conferir antes de postar. Resposta pronta ao '7x0' (atribuída ao autor): o senador Rogério Marinho afirma que a PEC mantém o limite de 44 horas semanais e o descanso semanal remunerado; os críticos contestam. Ler o texto oficial antes de responder. Reforço do argumento (só em comentário): com o mesmo salário, 44 h para 40 h deixa a hora 10% mais cara.*
 
 ---
 
@@ -120,7 +120,7 @@
 
 **Vitor:** Isso já existe?
 
-**Ryan:** Ainda é proposta de plano de governo. Precisa de orçamento e de lei.
+**Ryan:** Ainda é proposta de governo. Pra sair do papel, depende de implementação, de orçamento e, em algumas medidas, de lei.
 
 **Vitor:** Por que isso é importante?
 
@@ -130,7 +130,7 @@
 
 ---
 
-## ROTEIRO 5 — MOTORISTA E ENTREGADOR DE APLICATIVO: QUEM DECIDE COMO VOCÊ TRABALHA?
+## ROTEIRO 5 — MOTORISTA DE APLICATIVO: QUEM DECIDE COMO VOCÊ TRABALHA?
 
 **Vitor:** Dr. Ryan, sou motorista de aplicativo. Os candidatos falam alguma coisa de mim?
 
@@ -142,7 +142,7 @@
 
 **Vitor:** E o Flávio?
 
-**Ryan:** Propõe liberdade: um regime de trabalho por hora que o motorista ou o entregador escolhe, com direitos proporcionais, sem perder a flexibilidade que ele valoriza.
+**Ryan:** O plano do Flávio vai por outra linha: diz que quer preservar a flexibilidade e as oportunidades de renda do trabalho por aplicativo, com proteção social e previdenciária.
 
 **Vitor:** Por que a flexibilidade importa tanto pra mim?
 
@@ -156,7 +156,7 @@
 
 **Ryan:** Que respeite a sua escolha: ser empregado ou ser autônomo. Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: STF, Tema 1.291 (RE 1.446.336, rel. Min. Fachin; julgamento não concluído, segundo a imprensa); PLP 12/2024 (autônomo por plataforma, INSS, limite de 12 h por aplicativo, remuneração mínima por hora, R$ 32,10 no texto original); plano de Flávio: regime flexível por hora. O vídeo não afirma que o governo quer CLT para motoristas. CONFERIR o andamento do Tema 1.291 e do PLP 12/2024 antes de gravar.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: STF, Tema 1.291 (RE 1.446.336, rel. Min. Fachin; julgamento não concluído, segundo a imprensa); PLP 12/2024 (autônomo por plataforma, INSS, limite de 12 h por aplicativo, remuneração mínima por hora, R$ 32,10 no texto original); o PLP 12/2024 vale só para motoristas de transporte de passageiros em carro (não abrange entregadores), foi retirado de pauta e segue sem votação na Câmara; plano de Flávio: preservar a flexibilidade e as oportunidades de renda do trabalho por aplicativo, com proteção social e previdenciária, sem definir o modelo. O vídeo não afirma que o governo quer CLT para motoristas nem que o regime da PEC 12/2026 se aplicaria aos aplicativos. CONFERIR o andamento do Tema 1.291 e do PLP 12/2024 antes de gravar.*
 
 ---
 
@@ -164,7 +164,7 @@
 
 **Vitor:** Dr. Ryan, acabou a taxa das blusinhas?
 
-**Ryan:** O imposto federal de 20% sobre compras internacionais de até 50 dólares foi zerado. Foi por uma medida provisória do próprio Lula, em maio de 2026, ano de eleição. Em setembro, ele sancionou a lei que confirmou isso.
+**Ryan:** O imposto federal de 20% sobre compras de até 50 dólares feitas em sites do Remessa Conforme foi zerado. Foi por uma medida provisória do próprio Lula, em maio de 2026, ano de eleição. Em setembro, ele sancionou a lei que confirmou isso.
 
 **Vitor:** Quem criou essa taxa?
 
@@ -176,13 +176,13 @@
 
 **Vitor:** E agora?
 
-**Ryan:** Sem os 20% federais, continua o ICMS, que é imposto estadual. Compra de 50 dólares ou menos ainda paga imposto.
+**Ryan:** Nas compras de até 50 dólares pelo Remessa Conforme, continua o ICMS do estado, de 17% ou 20%. E em site fora do programa, o imposto federal continua sendo de 60%.
 
 **Vitor:** Qual é a lição?
 
 **Ryan:** O consumidor merece saber quem criou o imposto, quem manteve e em que momento decidiu acabar. Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral (revisado em 06/10/2026). Base: Lei 14.902/2024 (sancionada por Lula em 28/6/2024; 20% de imposto de importação sobre compras de até US$ 50, desde 1/8/2024); MP 1.357/2026, de 12/5/2026, assinada por Lula, que zerou o imposto; Lei 15.502/2026, sancionada em 10/9/2026, que converteu a MP e autoriza alíquota zero até US$ 50. ICMS: 17% na maioria dos estados e 20% em AC, AL, BA, CE, MG, PB, PI, RN, RR e SE desde 1/4/2025. Se comentarem 'o PL também votou a favor': a votação foi simbólica e quem sancionou, sem vetar a taxa, foi o Lula. O vídeo não afirma a posição do Flávio sobre o tema.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral (revisado em 06/10/2026). Base: Lei 14.902/2024 (sancionada por Lula em 28/6/2024; 20% de imposto de importação sobre compras de até US$ 50, desde 1/8/2024); MP 1.357/2026, de 12/5/2026, assinada por Lula, que zerou o imposto; Lei 15.502/2026, sancionada em 10/9/2026, que converteu a MP e autoriza alíquota zero até US$ 50. A alíquota zero vale só para empresas certificadas no Programa Remessa Conforme; fora dele, aplica-se a alíquota geral de 60% (Receita Federal). ICMS: 17% na maioria dos estados e 20% em AC, AL, BA, CE, MG, PB, PI, RN, RR e SE desde 1/4/2025. Se comentarem 'o PL também votou a favor': a votação foi simbólica e quem sancionou, sem vetar a taxa, foi o Lula. O vídeo não afirma a posição do Flávio sobre o tema.*
 
 ---
 
@@ -206,13 +206,13 @@
 
 **Vitor:** O que é negociado sobre o legislado?
 
-**Ryan:** É quando o acordo entre trabalhador e empresa, ou a convenção coletiva, pode valer sobre alguns pontos da lei, como banco de horas e jornada, desde que respeite o que não pode ser negociado, como salário mínimo, FGTS e normas de saúde e segurança. O STF validou isso em 2022.
+**Ryan:** É quando o que foi negociado vale mais que a regra geral da lei em alguns pontos. Hoje isso já vale pros acordos e convenções coletivas, feitos com o sindicato, em temas como banco de horas e jornada, desde que respeitem o que não se negocia, como salário mínimo, FGTS e normas de saúde e segurança. O STF validou isso em 2022. O plano do Flávio quer ampliar a negociação direta entre trabalhador e empresa.
 
 **Vitor:** Qual é a pergunta pro eleitor?
 
 **Ryan:** Quem respeita a sua escolha e o seu bolso? Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CLT, arts. 578 e 579 (contribuição sindical com autorização prévia e expressa; era equivalente a um dia de trabalho por ano, CLT art. 580 na redação anterior); STF, ADI 5794 (2018) e Tema 1046 (2022); declarações de Lula em 2022 sobre 'revisão' e pressão sindical por 'revogaço' em 2025; plano de Flávio: negociado sobre o legislado. CONFERIR se o plano de Lula de 2026 traz algo sobre revisão da reforma; o vídeo não afirma que o plano atual proponha revogação.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CLT, arts. 578 e 579 (contribuição sindical com autorização prévia e expressa; era equivalente a um dia de trabalho por ano, CLT art. 580 na redação anterior); STF, ADI 5794 (2018) e Tema 1046 (2022: validade de acordos e convenções COLETIVOS que limitem ou afastem direitos não absolutamente indisponíveis; não trata de acordo individual); acordo individual hoje só em hipóteses específicas da lei (ex.: banco de horas semestral, empregado hipersuficiente); declarações de Lula em 2022 sobre 'revisão' e pressão sindical por 'revogaço' em 2025; plano de Flávio: negociado sobre o legislado. CONFERIR se o plano de Lula de 2026 traz algo sobre revisão da reforma; o vídeo não afirma que o plano atual proponha revogação.*
 
 ---
 
@@ -382,7 +382,7 @@ Primeira pergunta: quem me dá escolha? Cada pessoa vive uma realidade. Tem quem
 
 Segunda pergunta: quem abre vaga com carteira assinada pra mim, pro meu filho, pro meu pai que está desempregado? Olhe quem propõe baixar o custo de contratar, e quem foi ao STF contra a desoneração da folha.
 
-Terceira pergunta: quem mexe no meu bolso? A taxa das blusinhas, sancionada em 2024, só foi zerada em maio de 2026, em ano de eleição. O imposto sobre dividendos agora pesa em quem tem empresa e gera emprego. Pergunte quem promete reduzir a carga de quem produz e de quem consome.
+Terceira pergunta: quem mexe no meu bolso? A taxa das blusinhas, sancionada em 2024, só foi zerada em maio de 2026, em ano de eleição. E desde 2026, quem recebe mais de 50 mil reais por mês em lucros de uma mesma empresa passou a ter 10% de imposto retido. Pergunte quem promete reduzir a carga de quem produz e de quem consome.
 
 Leia os planos de governo, que estão no site do TSE, e decida com a cabeça. Comenta aqui qual dessas perguntas pesa mais pra você, segue o Dr. Ryan e compartilha com quem ainda está em dúvida.
 

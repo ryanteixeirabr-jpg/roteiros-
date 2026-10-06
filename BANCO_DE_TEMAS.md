@@ -21,7 +21,11 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
-## Cartela 06 — trabalhador em primeiro lugar (versão `_G_REVISADO`), 06/10/2026 (revisada e liberada para gravação)
+## Cartela 06 — trabalhador em primeiro lugar (versão `_FINAL`), 06/10/2026 (revisada duas vezes e liberada)
+
+Segunda revisão (06/10/2026, após conferência externa): roteiro 1 (Flávio como signatário da PEC 12/2026), 4 ("em algumas medidas, de lei"), 5 (só motoristas; plano fala em flexibilidade com proteção social e previdenciária), 6 (alíquota zero só no Remessa Conforme; fora dele, 60%), 7 (Tema 1046 é de acordo/convenção coletiva) e 14 (regra objetiva dos dividendos). A votação da PEC da 6x1 no Senado não tem data: são cinco sessões de discussão antes do 1º turno.
+
+(histórico)
 
 Revisão ROT de 06/10/2026: corrigidos os roteiros 6, 13 e 14 (a taxa das blusinhas foi zerada pela MP 1.357/2026 em 12/5/2026, e não em setembro; ICMS de 17% ou 20% conforme o estado; 'sancionou' no lugar de 'criou'). Roteiro 1 com prazo: postar antes da votação da PEC da 6x1 no Senado, prevista para 8/10/2026.
 

@@ -159,3 +159,11 @@ O Ryan entende que Jair Bolsonaro **não cometeu o crime** pelo qual foi condena
 - **Mix da cartela:** cerca de metade **política com lente do trabalhador** (contraste Lula x Flávio com base verificada) e cerca de metade **direito evergreen de grande alcance** (hora extra, 13º, rescisão e seguro-desemprego, banco de horas), que trazem audiência e dão credibilidade. Evitar os temas saturados da lista da seção 9. Modelo: `ROTEIROS_06102026_G`.
 - **Não usar o tema dos descontos indevidos do INSS como crítica ao governo Lula:** o esquema vai de 2019 a 2024 (inclui o governo Bolsonaro) e a maioria da CPMI pediu o indiciamento do Flávio (ele contesta). Seria um tiro no pé. Se o Ryan insistir, tratar como roteiro de **direito do aposentado** (como contestar desconto no Meu INSS), sem atribuir culpa.
 
+### Lições de checagem (revisão da cartela 06, 06/10/2026)
+
+- **Atribuição:** o que está numa PEC assinada pelo Flávio deve ser dito como "ele assinou/apoia a PEC", não como "o plano dele prevê", salvo se o texto do plano disser exatamente isso.
+- **Não estender uma proposta a quem ela não alcança:** o PLP 12/2024 é só de motoristas de carro (não de entregadores); o plano do Flávio, para aplicativos, fala em preservar flexibilidade e renda com proteção social e previdenciária, sem definir modelo.
+- **Taxa das blusinhas:** a alíquota zero vale só no Programa Remessa Conforme; fora dele, 60%. ICMS de 17% ou 20% conforme o estado.
+- **Tema 1046 do STF** trata de acordos e convenções **coletivos**, não de acordo individual.
+- **Tramitação de PEC no Senado:** cinco sessões de discussão antes do 1º turno; não anunciar data de votação sem fonte oficial.
+
