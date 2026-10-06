@@ -21,7 +21,11 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
-## Cartela 05 — Propostas dos candidatos (jurídico e trabalhista), 06/10/2026 (roteirizada)
+## Cartela 05 — versão final `_F`, 06/10/2026 (roteirizada)
+
+Arquivo: `roteiros/curtos/ROTEIROS_06102026_F.docx` (+ `.md` e `.zip`). Substitui a `_E`: linha contra o Lula e a favor do Flávio em todos os roteiros com política; 6x1 com foco na proposta do Flávio ("outro caminho"). Entrou "Taxa das blusinhas" no lugar de "Fim da 6x1 e o pequeno empresário". Ver notas internas sobre a PEC 12/2026 (autoria de Rogério Marinho; críticos falam em "7x0"; ler o texto antes de gravar).
+
+## (histórico) Cartela 05 — Propostas dos candidatos (jurídico e trabalhista), 06/10/2026 (roteirizada)
 
 Arquivo: `roteiros/curtos/ROTEIROS_06102026_E.docx` (+ `.md` e `.zip`). Contraste Lula x Flávio com base nos planos de governo e em fatos, 12 em pergunta e resposta e 2 solos.
 

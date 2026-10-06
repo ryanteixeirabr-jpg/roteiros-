@@ -146,3 +146,9 @@ O Ryan entende que Jair Bolsonaro **não cometeu o crime** pelo qual foi condena
 - Cada roteiro explica o direito/impacto em linguagem simples, mostra a diferença entre os candidatos e termina com uma **pergunta ao eleitor** (qual caminho cria mais emprego com carteira, dá mais escolha, dá mais segurança jurídica).
 - Mantém-se: nada que soe contra Jair Bolsonaro; críticas esperadas dos comentários ficam na **nota interna**; conteúdo é orgânico (sem impulsionamento por terceiros).
 
+### Linha política e escala 6x1 (6ª correção do Ryan, 06/10/2026)
+
+- Em **todo roteiro que tiver questão política**, a linha é **contra o governo Lula e a favor do Flávio Bolsonaro**, com linguagem boa e simples, sempre com fatos verificados. O modelo é a cartela `ROTEIROS_06102026_F`.
+- **Escala 6x1:** o público de baixa renda reage ao "fim da 6x1" e não lê o resto. Por isso o roteiro **foca no que o Flávio propõe** (liberdade de escolha, regime opcional por hora, carteira assinada, direitos proporcionais) e fala em "outro caminho". **Limites que o assistente mantém:** (1) não escrever nada que faça parecer que o Flávio **apoia o fim da 6x1**; (2) não prometer **mais folga** nem afirmar que a PEC mantém **repouso semanal ou hora extra** sem ler o texto oficial (críticos dizem que a PEC 12/2026 elimina os dois, e as fontes divergem); (3) a PEC 12/2026 é de **autoria do senador Rogério Marinho**, com 41 assinaturas, entre elas a do Flávio; não dizer que ela é do Flávio. Na nota interna, deixar a **resposta verdadeira** para quem perguntar "o Flávio é contra a 6x1?": o plano dele não propõe o fim da 6x1; propõe a alternativa da jornada flexível opcional.
+- Críticas ao Lula entram **só quando são fatos**: veto da desoneração derrubado e ida ao STF, IOF por decreto derrubado pelo Congresso (e restabelecido pelo STF), retenção de 10% sobre dividendos, taxa das blusinhas (criada em 2024, fim sancionado em set/2026), PLP 12/2024 dos aplicativos, etc.
+
