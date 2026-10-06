@@ -106,3 +106,9 @@ Quando pedido: `.docx`, **Times New Roman**, roteiro organizado, idealmente **um
 ## 15. Resumo em uma frase
 
 Conteúdo curto, natural e popular de um advogado, usando temas que dominam o Brasil — inclusive eleições e política — como matéria-prima para explicar questões jurídicas interessantes, sem abandonar a identidade profissional, sem juridiquês excessivo, sem neutralidade artificial e sem virar comentário político puro. **E, acima de tudo: não inventar o que Ryan pensa.**
+
+## 16. Correções do Ryan em 06/10/2026 (valem daqui pra frente)
+
+- **Tamanho:** roteiro curto demais foi rejeitado. Pergunta e resposta deve ter de **9 a 14 trocas**, com respostas que **expliquem o direito em linguagem simples e digam o que fazer na prática** (não só frases soltas). Os modelos reais dele estão em `referencias/modelos_ryan/` — seguir esse padrão.
+- **Formato do Word (padrão dele):** Letter, Times New Roman 12; cabeçalho `RYAN TEIXEIRA — CARTELA DE 14 VÍDEOS — data`; título `ROTEIRO N — TÍTULO` em caixa alta; uma `NOTA INTERNA — NÃO LER NA GRAVAÇÃO` curta no fim; rodapé `Página N`; um roteiro por página; nome de arquivo `ROTEIROS_DDMMAAAA`.
+- **Direcionamento político:** Ryan pediu e **reiterou** conteúdo **pró-Bolsonaro/direita**, com foco jurídico. A cartela "neutra" foi rejeitada ("mais pró-Lula do que pró-Bolsonaro"). Fazer o recado claro, com **fatos verificados** e crédito direto a atos do governo Bolsonaro quando for verdade (ex.: Lei da Liberdade Econômica, Pacote Anticrime), sem inventar dado, sem afirmar o que não foi decidido e atribuindo à defesa o que for tese da defesa. Evitar cartela com temas que favoreçam o lado oposto (ex.: foco em assédio eleitoral/MPT contra empresário) sem contrapeso.

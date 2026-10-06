@@ -21,6 +21,12 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
+## Cartela 03 — Formato do Ryan, 06/10/2026 (roteirizada)
+
+Arquivo: `roteiros/curtos/ROTEIROS_06102026.docx` (+ `.md` e `.zip`). 12 em pergunta e resposta (9 a 14 trocas) e 2 solo. Lente jurídica com inclinação pró-Bolsonaro/direita, conforme pedido do Ryan.
+
+1. Posso criticar o governo nas redes sem ser punido? 2. Ato político e demissão. 3. Empresário pode declarar voto? 4. Lei da Liberdade Econômica (2019). 5. Dívida da empresa e CPF do sócio. 6. Anistia, indulto e dosimetria. 7. Lei da Dosimetria aprovada e suspensa. 8. Prisão preventiva (Pacote Anticrime). 9. Direito de defesa (SV 14). 10. Imparcialidade do juiz (impedimento e suspeição). 11. Rede social apagou meu post (Marco Civil, STF 2025). 12. Quem governa e é candidato: condutas vedadas. 13. SOLO: 3 coisas que não são crime nas redes e 3 que são. 14. SOLO: 4 direitos do empresário numa fiscalização.
+
 ## Cartela 01 — Eleições 2026 / 2º turno (roteirizada em 06/10/2026)
 
 Arquivo: `roteiros/curtos/cartela_eleicao_2turno_01.docx` (+ `.md` e `.zip`). Todas em pergunta e resposta (Ryan + Vitor), status **Roteirizada** (não gravada).
