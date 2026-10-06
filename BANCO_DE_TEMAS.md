@@ -21,6 +21,12 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
+## Cartela 04 — Trabalho + direita, 06/10/2026 (roteirizada)
+
+Arquivo: `roteiros/curtos/ROTEIROS_06102026_B.docx` (+ `.md` e `.zip`). Nove de trabalho, quatro de eleição/direito e dois solos; tamanhos variados (de 5 a 14 trocas). Pedido do Ryan: pró-Flávio, sem escancarar, respondendo às críticas feitas à direita.
+
+1. A reforma trabalhista tirou direitos? (longo) 2. O imposto sindical acabou mesmo? (curto) 3. Terceirização da atividade-fim (STF 2018). 4. Trabalho intermitente é legal? (STF dez/2024, curto) 5. Vale-alimentação e home office (Lei 14.442/2022). 6. Rescisão por acordo. 7. Bônus e prêmio viram salário? 8. Anistia é ilegal? 9. Impeachment de ministro do STF (conferir o plenário antes de gravar). 10. Denunciação caluniosa eleitoral. 11. Filho de ex-presidente inelegível pode ser candidato? (curto) 12. Pandemia: Lei 14.020/2020 e garantia no emprego. 13. SOLO: quatro leis de 2019 a 2022 que mexeram no seu emprego. 14. SOLO: o que a Constituição garante a quem empreende.
+
 ## Cartela 03 — Formato do Ryan, 06/10/2026 (roteirizada)
 
 Arquivo: `roteiros/curtos/ROTEIROS_06102026.docx` (+ `.md` e `.zip`). 12 em pergunta e resposta (9 a 14 trocas) e 2 solo. Lente jurídica com inclinação pró-Bolsonaro/direita, conforme pedido do Ryan.

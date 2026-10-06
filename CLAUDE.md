@@ -112,3 +112,11 @@ Conteúdo curto, natural e popular de um advogado, usando temas que dominam o Br
 - **Tamanho:** roteiro curto demais foi rejeitado. Pergunta e resposta deve ter de **9 a 14 trocas**, com respostas que **expliquem o direito em linguagem simples e digam o que fazer na prática** (não só frases soltas). Os modelos reais dele estão em `referencias/modelos_ryan/` — seguir esse padrão.
 - **Formato do Word (padrão dele):** Letter, Times New Roman 12; cabeçalho `RYAN TEIXEIRA — CARTELA DE 14 VÍDEOS — data`; título `ROTEIRO N — TÍTULO` em caixa alta; uma `NOTA INTERNA — NÃO LER NA GRAVAÇÃO` curta no fim; rodapé `Página N`; um roteiro por página; nome de arquivo `ROTEIROS_DDMMAAAA`.
 - **Direcionamento político:** Ryan pediu e **reiterou** conteúdo **pró-Bolsonaro/direita**, com foco jurídico. A cartela "neutra" foi rejeitada ("mais pró-Lula do que pró-Bolsonaro"). Fazer o recado claro, com **fatos verificados** e crédito direto a atos do governo Bolsonaro quando for verdade (ex.: Lei da Liberdade Econômica, Pacote Anticrime), sem inventar dado, sem afirmar o que não foi decidido e atribuindo à defesa o que for tese da defesa. Evitar cartela com temas que favoreçam o lado oposto (ex.: foco em assédio eleitoral/MPT contra empresário) sem contrapeso.
+
+### Reforço do Ryan (2ª correção em 06/10/2026)
+
+- **Ficar na área dele:** a base de toda cartela é **Direito do Trabalho** (empregado e empresário), com a eleição como gancho. Temas fora disso (instituições, STF, eleitoral) entram em minoria, sempre pela lente jurídica e ligados ao dia a dia dele. Cartela 03 foi criticada por fugir demais da área.
+- **Tamanho variável:** misturar roteiros curtos (4 a 6 trocas) e longos (10 a 14 trocas) e solos. Não padronizar tudo no mesmo tamanho.
+- **Direcionamento:** a linha é **pró-Flávio Bolsonaro nestas eleições**, sem escancarar. O método que ele quer: escolher temas **favoráveis à direita** e **responder juridicamente às críticas que são feitas à direita** (ex.: "anistia é ilegal?" → a Constituição dá ao Congresso o poder de anistiar; as vedações são só estas; o STF tem a palavra final). Tudo com base verificada, atribuindo à defesa o que for tese da defesa e sem afirmar como certo o que o STF ainda não decidiu.
+- **Evitar** cartela "neutra": ele considera neutralidade como inclinação para o lado oposto.
+
