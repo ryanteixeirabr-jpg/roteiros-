@@ -21,7 +21,11 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
-## Cartela 05 — versão final `_F`, 06/10/2026 (roteirizada)
+## Cartela 06 — trabalhador em primeiro lugar (versão `_G`), 06/10/2026 (roteirizada)
+
+Arquivo: `roteiros/curtos/ROTEIROS_06102026_G.docx` (+ `.md` e `.zip`). Substitui a `_F`. Sete roteiros políticos com lente do trabalhador (6x1/escolha, trabalho por hora, primeiro emprego e 50+, mulher trabalhadora, apps, taxa das blusinhas, reforma e bolso), um solo sobre custo de contratar, quatro de direito evergreen (hora extra, 13º, demissão, banco de horas) e dois solos ("Dizem que a direita é contra o trabalhador. Fato ou mentira?" e "Três perguntas antes do dia 25"). Não usa o tema do INSS contra o governo (risco: esquema de 2019 a 2024 e relatório da CPMI citando o Flávio).
+
+## (histórico) Cartela 05 — versão final `_F`, 06/10/2026 (roteirizada)
 
 Arquivo: `roteiros/curtos/ROTEIROS_06102026_F.docx` (+ `.md` e `.zip`). Substitui a `_E`: linha contra o Lula e a favor do Flávio em todos os roteiros com política; 6x1 com foco na proposta do Flávio ("outro caminho"). Entrou "Taxa das blusinhas" no lugar de "Fim da 6x1 e o pequeno empresário". Ver notas internas sobre a PEC 12/2026 (autoria de Rogério Marinho; críticos falam em "7x0"; ler o texto antes de gravar).
 
