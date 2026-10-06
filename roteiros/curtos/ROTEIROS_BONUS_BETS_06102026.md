@@ -14,7 +14,7 @@
 
 **Vitor:** E quem sancionou?
 
-**Ryan:** O presidente Lula, em dezembro de 2023. A partir daí, o cassino online passou a poder funcionar no Brasil com licença do governo.
+**Ryan:** O presidente Lula, em dezembro de 2023. A partir daí, os cassinos online passaram a fazer parte do mercado regulado, sujeitos à autorização do governo.
 
 **Vitor:** E agora o governo proibiu tudo?
 
@@ -38,9 +38,9 @@
 
 **Ryan:** Foi uma medida provisória, assinada pelo Lula em 25 de setembro. Ela vale desde que foi publicada, mas é provisória: o Congresso tem até 120 dias pra aprovar. Se não aprovar, ela perde a validade.
 
-**Vitor:** E o Congresso vai aprovar?
+**Vitor:** E o Congresso vai aprovar desse jeito?
 
-**Ryan:** Ainda não se sabe. Líderes do Congresso já falam em mudar o texto, criar um período de transição ou devolver o que as empresas pagaram pelas licenças.
+**Ryan:** Ainda não se sabe. Já tem várias emendas querendo mudar o texto, inclusive propostas pra manter as apostas esportivas.
 
 **Vitor:** E na Justiça?
 
@@ -54,7 +54,7 @@
 
 **Ryan:** Que medida provisória é uma solução temporária. Regra que dura de verdade passa pelo Congresso. Segue o Dr. Ryan pra acompanhar.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. ATENÇÃO, TEMA EM MOVIMENTO: conferir no dia da postagem se o STF (Min. Fux, ações da ANJL, IBJR, Abert e clubes) suspendeu a MP ou se o Congresso votou algo; se mudou, ajustar as falas 3 e 4. Base: CF, art. 62, §§ 3º e 7º (eficácia imediata; 60 + 60 dias para conversão, sem contar o recesso); MP 1.394/2026; críticas de Flávio ('manobra eleitoral', 'estelionato eleitoral' e risco de a MP caducar), segundo Times Brasil, Revista Fórum e ND Mais. O vídeo atribui a crítica ao Flávio.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. ATENÇÃO, TEMA EM MOVIMENTO: conferir no dia da postagem se o STF (Min. Fux, ações da ANJL, IBJR, Abert e clubes) suspendeu a MP ou se o Congresso votou algo; se mudou, ajustar as falas 3 e 4. Emendas: prazo prorrogado até 13/10/2026; há propostas para preservar as apostas esportivas e concentrar a proibição nos cassinos online. Base: CF, art. 62, §§ 3º e 7º (eficácia imediata; 60 + 60 dias para conversão, sem contar o recesso); MP 1.394/2026; críticas de Flávio ('manobra eleitoral', 'estelionato eleitoral' e risco de a MP caducar), segundo Times Brasil, Revista Fórum e ND Mais. O vídeo atribui a crítica ao Flávio.*
 
 ---
 
@@ -110,7 +110,7 @@
 
 **Ryan:** Desconfia. Ninguém precisa cobrar taxa pra você receber o que é seu. Isso é golpe. Manda esse vídeo pra quem tinha dinheiro em bet. Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. TEMA COM PRAZO: postar o quanto antes (a janela de devolução noticiada vai de 9 a 14/10/2026) e conferir no dia se o cronograma mudou ou se o STF suspendeu a MP. Base: MP 1.394/2026 e cronograma divulgado pela imprensa (bets informam saldos aos bancos em 7 e 8/10; bancos devolvem de 9 a 14/10; a Caixa pode intermediar depois disso; cerca de R$ 1,32 bilhão ainda estava nas plataformas, segundo o Ministério da Fazenda); CDC (responsabilidade do fornecedor); Lei 9.099/1995 (Juizado Especial: até 40 salários mínimos; sem advogado até 20). CONFERIR o cronograma oficial no site do Ministério da Fazenda antes de gravar.*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. TEMA COM PRAZO: postar o quanto antes (a janela de devolução noticiada vai de 9 a 14/10/2026) e conferir no dia se o cronograma mudou ou se o STF suspendeu a MP. Base: MP 1.394/2026 e cronograma divulgado pela imprensa (bets informam saldos aos bancos em 6 e 7/10, segundo o Ministério da Fazenda; bancos devolvem de 9 a 14/10; a Caixa pode intermediar depois disso; cerca de R$ 1,32 bilhão ainda estava nas plataformas, segundo o Ministério da Fazenda); CDC (responsabilidade do fornecedor); Lei 9.099/1995 (Juizado Especial: até 40 salários mínimos; sem advogado até 20). CONFERIR o cronograma oficial no site do Ministério da Fazenda antes de gravar.*
 
 ---
 
@@ -166,7 +166,7 @@
 
 **Ryan:** Empresário: tenha regra clara sobre o uso do celular e documente tudo. Trabalhador: se você perdeu o controle, procure tratamento. O SUS atende pelos CAPS. Segue o Dr. Ryan.
 
-*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CLT, art. 482, 'l' (prática constante de jogos de azar), 'e' (desídia) e 'h' (indisciplina); CID-11 da OMS (6C50, transtorno do jogo); TST sem entendimento consolidado sobre bets e ludopatia, segundo a imprensa (InfoMoney, Migalhas, Conjur). Ressalva: há debate se aposta regulamentada se enquadra como 'jogo de azar' e se a conduta fora do trabalho basta; o vídeo fala em 'dependendo do caso'. Atendimento: CAPS (Rede de Atenção Psicossocial do SUS).*
+*NOTA INTERNA — NÃO LER NA GRAVAÇÃO: 🟡 Regra geral. Base: CLT, art. 482, 'l' (prática constante de jogos de azar), 'e' (desídia) e 'h' (indisciplina); CID-11 da OMS (6C50, transtorno do jogo); TST sem entendimento consolidado sobre bets e ludopatia, segundo a imprensa (InfoMoney, Migalhas, Conjur). Ressalva: há debate se aposta regulamentada se enquadra como 'jogo de azar' e se a conduta fora do trabalho basta; o vídeo fala em 'dependendo do caso'. Atendimento pelo SUS: UBS, CAPS e teleatendimento pelo Meu SUS Digital, segundo o Ministério da Saúde.*
 
 ---
 
