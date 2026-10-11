@@ -10,7 +10,7 @@ E eu vou te mostrar, como advogado, por que essa frase dela não para em pé.
 
 Primeiro, o contexto. Em março, o Alfredo Gaspar era o relator da CPMI do INSS. Ele pediu o indiciamento de 216 pessoas, entre elas o Lulinha, filho do Lula. E foi no mesmo dia da sessão final da CPMI, 27 de março, que a Soraya e o Lindbergh Farias foram pra frente das câmeras com essa acusação e levaram o caso à Polícia Federal.
 
-Aí vem o "não tenho que provar". Ela se apoiou numa súmula do STJ, a 301, que diz o seguinte: se o suposto pai se recusa a fazer o DNA, presume-se que ele é o pai.
+Aí vem o "não temos o dever de provar". Ela se apoiou numa súmula do STJ, a 301, que diz o seguinte: se o suposto pai se recusa a fazer o DNA, presume-se que ele é o pai.
 
 Só que tem dois problemas. Primeiro: essa súmula vale pra ação de paternidade, que é um processo cível. Ela não serve pra acusar ninguém de crime. Segundo: o Gaspar não se recusou. Ele mesmo pediu à Justiça pra coletar o DNA, e o perfil genético dele está pronto pra comparação. Ele não fugiu do exame. Quem cobrava o DNA publicamente era ela.
 
