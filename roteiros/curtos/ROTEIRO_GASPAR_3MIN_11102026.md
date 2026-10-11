@@ -1,0 +1,35 @@
+# ROTEIRO — ACUSOU O VICE DO FLÁVIO DE ESTUPRO E DISSE QUE NÃO TINHA QUE PROVAR NADA. A JUSTIÇA RESPONDEU.
+
+SOLO · ANÁLISE JURÍDICA · VERSÃO 3 MINUTOS · gravar por blocos
+
+**[BLOCO 1]** Uma senadora acusa um deputado de estupro de uma menina de 13 anos. E quando cobram a prova, ela escreve: "não temos o dever de provar absolutamente nada". Pois a Justiça respondeu. Soraya Thronicke foi condenada a pagar 50 mil reais ao Alfredo Gaspar, que hoje é o vice do Flávio Bolsonaro. E eu vou te mostrar, como advogado, por que essa frase dela não para em pé.
+
+**[BLOCO 2]** Primeiro, o contexto. Em março, o Gaspar era o relator da CPMI do INSS e pediu o indiciamento de 216 pessoas, entre elas o Lulinha, filho do Lula. E foi no mesmo dia da sessão final da CPMI que a Soraya e o Lindbergh Farias foram pra frente das câmeras com essa acusação e levaram o caso à Polícia Federal.
+
+**[BLOCO 3]** Aí vem o "não temos o dever de provar". Ela se apoiou numa súmula do STJ, a 301: se o suposto pai se recusa a fazer o DNA, presume-se, até prova em contrário, que ele é o pai. Só que tem dois problemas. Essa súmula vale pra ação de paternidade, que é cível. Não serve pra acusar ninguém de crime. E o Gaspar não se recusou. Ele mesmo pediu à Justiça pra coletar o DNA, e o perfil genético dele está pronto pra comparação. Quem cobrava o DNA publicamente era ela.
+
+**[BLOCO 4]** E quando a acusação é de crime, a regra é outra. O artigo 156 do Código de Processo Penal diz: a prova da alegação cabe a quem a fizer. Quem acusa é que tem que provar a culpa; o acusado não tem que provar que é inocente.
+
+**[BLOCO 5]** E olha o que aconteceu. A Polícia Federal pediu pra abrir inquérito. O ministro Gilmar Mendes — e ninguém vai dizer que o Gilmar é bolsonarista — mandou checar antes: dados do Google, das operadoras, transcrição dos áudios. Resultado? A Procuradoria-Geral da República disse que não havia indício concreto contra o deputado. E o Gilmar escreveu que os prints, os áudios e os relatos não se confirmavam entre si e não tinham prova independente capaz de sustentar a acusação. Arquivou. Não tinha base nem pra abrir inquérito.
+
+**[BLOCO 6]** Na ação de indenização, a Soraya alegou imunidade parlamentar. A defesa dela chegou a escrever que a denúncia de um parlamentar "não necessita vir acompanhada de provas". Mas o STF já decidiu várias vezes que a imunidade não protege automaticamente qualquer declaração. Fora do recinto do Parlamento, tem que ter ligação com o mandato. Imunidade não é licença pra acusar alguém de estupro sem prova.
+
+**[BLOCO 7]** E foi isso que o juiz entendeu: criticar um político é uma coisa; acusar alguém de um crime gravíssimo sem base é outra. O Código Civil, no artigo 186, diz que quem viola o direito de alguém e causa dano, mesmo que só moral, comete ato ilícito. E o artigo 927 manda reparar. Resultado: 50 mil reais de indenização. Ela ainda pode recorrer.
+
+**[BLOCO 8]** Denunciar à polícia é direito de qualquer um. O que não pode é levar uma acusação sem prova pra frente das câmeras e depois dizer que não tem que provar nada. Na minha opinião, isso não é fiscalização. É usar acusação de crime como arma política. E a Justiça, até agora, deu razão ao Gaspar.
+
+Segue o Dr. Ryan!
+
+---
+
+## NOTA INTERNA — NÃO LER NA GRAVAÇÃO
+
+- **Decisão do Gilmar (PET 15.905, 6/10/2026, lida na íntegra):** PF pediu inquérito; diligências deferidas em 5/8 (ofícios à Google LLC e operadoras, transcrição dos áudios, intimação dos noticiantes); PGR em 5/10: "não há demonstração da materialidade delitiva nem indícios concretos contra o parlamentar"; Gilmar: capturas de tela, áudios, dados de e-mail e telefone e relatos "não se mostram suficientemente corroborados entre si nem encontram respaldo em elementos externos e independentes". Arquivamento pelo art. 18 do CPP, **sem prejuízo de nova apuração se surgirem novas provas**. Não é absolvição. Se comentarem "ele não foi inocentado": "foi arquivado porque não havia base mínima nem pra investigar; e quem acusa é que tem que provar (CPP, art. 156)".
+- **DNA:** Gaspar pediu a coleta por iniciativa própria (23/4); o laudo traz perfil genético completo para comparação futura. **Não dizer que o DNA "deu negativo"**: não houve comparação.
+- **Súmula 301 do STJ:** "Em ação investigatória, a recusa do suposto pai a submeter-se ao exame de DNA induz presunção juris tantum de paternidade." Soraya citou essa súmula ao dizer que não tinha que provar (29/3, Poder360).
+- **Conferência nos autos (0716054-58.2026.8.02.0001, 147 fls., lidos em 11/10):** frase "não temos o dever de provar absolutamente nada" citada na réplica (fls. 98-99) como post da Soraya, não impugnado; pedido de DNA feito pelo próprio Gaspar (fls. 22-35), deferido (fls. 39-44), coleta em 23/4 e laudo (fls. 61-66: perfil único e completo, 23 loci, "apto para fins de exames comparativos"); contestação do Senado invoca o art. 53 e diz que "a denúncia pública feita por um parlamentar não necessita vir acompanhada de provas ou de testemunhas" (fl. 75); sentença (fls. 132-146) afasta a imunidade, usa a decisão do Gilmar e condena com base no art. 5º, X, da CF e nos arts. 186, 187 e 927 do CC. A fala foi em coletiva nos corredores do Congresso (a defesa diz "entrevista concedida no Senado"); o juiz considerou fora do recinto parlamentar. Se comentarem "foi dentro do Senado": "imunidade absoluta é no recinto do Parlamento; fora dele, o STF exige ligação com o mandato, e o juiz entendeu que acusar alguém de estupro sem prova não tem".
+- **Sentença:** 3ª Vara Cível de Maceió, juiz Henrique Gomes de Barros Teixeira, 9/10/2026; R$ 50 mil por danos morais; primeira instância, cabe recurso ao TJ-AL. Soraya diz que não foi intimada e questiona provas que o juiz negou. Base legal: CF, art. 5º, X; CF, art. 53; CC, arts. 186, 187, 927 e 953. Gaspar também tem queixa-crime contra ela no STF (ainda sem decisão).
+- **CPMI do INSS:** relatório do Gaspar (216 indiciamentos, incluindo Lulinha) rejeitado por 19 x 12 em 28/3. O relatório paralelo governista pedia o indiciamento de Jair e Flávio e **nunca foi votado**. Se trouxerem isso: "nenhum relatório foi aprovado; o dos governistas nem foi a voto".
+- **Não citar** a versão do "primo de mesmo nome" (contestada pela imprensa) e **não identificar** a suposta vítima (menor de idade).
+- "Na minha opinião…" é opinião do Ryan; ajustar a frase se quiser outro tom.
+- Publicar no perfil pessoal, sem impulsionar; nada novo em 25/10; sem IA com candidato a partir de 22/10.
