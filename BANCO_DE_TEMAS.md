@@ -21,6 +21,11 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
+## Cartela 07 — atualidades em solo (10 roteiros), 11/10/2026 (roteirizada)
+
+Arquivo: `roteiros/curtos/ROTEIROS_11102026.docx` (+ `.md` e `.zip`). Todos em solo (Ryan gravando sozinho), de 1 a 1,5 min, a partir de pesquisa ampla de 11/10/2026.
+1. Feriado de 12/10: pagamento em dobro ou folga (postar no dia 11). 2. Fim da 6x1: PEC não passa por sanção do presidente; PEC 12 como outro caminho. 3. Lula zerou tributos da gasolina a 16 dias da eleição (decreto válido até 9/11). 4. STF validou prazos menores de registro de arma (Tema 1.483). 5. Flávio promete fim da reeleição (só por PEC). 6. Golpe do Pix: MED em até 80 dias e Lei 14.155/2021. 7. Saque-aniversário: limite cai em 1/11. 8. 13º de 2026 (20/12 cai num domingo). 9. Licença-paternidade de 20 dias ainda não vale (Lei 15.371/2026). 10. Plano de saúde por idade em contrato antigo (STF mandou à conciliação).
+
 ## Bônus — Bets (7 roteiros), 06/10/2026 (roteirizado)
 
 Arquivo: `roteiros/curtos/ROTEIROS_BONUS_BETS_06102026.docx` (+ `.md` e `.zip`). Gancho: MP 1.394/2026 (Lula proibiu bets e cassino online em 25/9/2026; sites fora do ar em 6/10; devolução de saldos pelos bancos até 14/10).
