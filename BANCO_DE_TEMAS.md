@@ -21,6 +21,12 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
+## Análises de repercussão (solo, estilo Gaspar), 11/10/2026 (roteirizadas)
+
+- `ROTEIROS_POLEMICAS_11102026`: Eduardo Bolsonaro (mandado de prisão e extradição) e Garotinho/TSE (274 mil votos anulados). Corrigido em 11/10: retirada a frase "crime formal / ameaça crível", que não estava confirmada como palavras do voto.
+- `ROTEIROS_POLEMICAS_2_11102026`: inquérito das fake news (Fux x Fachin); Marcelo de Carvalho (post sobre imigração); Gusttavo Lima (fã retirada do show); TST e a folga após o 7º dia; Débora do Batom (semiaberto); Flávio e a mudança da Constituição por PEC.
+- Pautas pesquisadas e não roteirizadas: revisão criminal e indulto de Jair Bolsonaro (exige cuidado das regras do CLAUDE.md), Gabriel Spalone preso (extorsão usando o nome do PCC), hipersuficiente (STF x TST), MP das bets no STF, João de Deus (R$ 20 milhões), TSE e os vídeos de Lula/Janja contra Flávio (há contrapeso: o TSE também mandou Flávio apagar posts).
+
 ## Cartela 07 — atualidades em solo (10 roteiros), 11/10/2026 (roteirizada)
 
 Arquivo: `roteiros/curtos/ROTEIROS_11102026.docx` (+ `.md` e `.zip`). Todos em solo (Ryan gravando sozinho), de 1 a 1,5 min, a partir de pesquisa ampla de 11/10/2026.
@@ -136,4 +142,5 @@ Arquivo: `roteiros/curtos/cartela_eleicao_2turno_02.docx` (+ `.md` e `.zip`). Pe
 
 ## Pautas — YouTube (vídeos longos)
 
-*(vazio)*
+- Roteirizados em 11/10/2026 (`roteiros/youtube/ROTEIROS_YOUTUBE_11102026`): Eduardo Bolsonaro (condenação, art. 344, extradição); Gaspar x Soraya (autos e decisão do Gilmar); Deltan (Ficha Limpa, alínea "q", votos sub judice).
+- Ideia aprovada pelo Ryan: depois da eleição, análise do resultado, do Congresso, do 2º turno e das consequências jurídicas e políticas.
