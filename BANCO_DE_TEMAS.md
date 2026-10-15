@@ -21,6 +21,11 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
+## Cartela de 15/10/2026 — repercussão (8 solos, `ROTEIROS_15102026`)
+
+1. Fim da 6x1 aprovado no Senado; 2. Mendonça afasta o chefe da PF e a PGR pede a volta (mensagens atribuídas a Vorcaro); 3. PSD pede 2º turno no Rio (ADPF 1362); 4. Lei da Dosimetria parada no STF; 5. Pacote do MEI a 12 dias da eleição (art. 73 da Lei 9.504); 6. Campanha do Lula x Meta (IA e algoritmo); 7. Fast food como refeição diária (TRT-3); 8. Canabidiol e plano de saúde (STJ).
+- Pesquisados e não roteirizados: TSE e propaganda que associa candidatos a criminosos (tiro no pé: o acórdão libera peças sobre Flávio e Vorcaro); canal "Exército do Lula" no WhatsApp (vai e volta de decisões; a área técnica não achou o conteúdo apontado pela campanha do Flávio); vídeo do "tesouraço" (maioria de 4 x 3 contra a liminar de Mendonça); visitas do Flávio ao pai; inquérito contra a deputada Ana Elisa; Hytalo Santos no STJ; expurgos em depósito judicial; saque-aniversário (já tratado na cartela 07).
+
 ## Análises de repercussão (solo, estilo Gaspar), 11/10/2026 (roteirizadas)
 
 - `ROTEIROS_POLEMICAS_11102026`: Eduardo Bolsonaro (mandado de prisão e extradição) e Garotinho/TSE (274 mil votos anulados). Corrigido em 11/10: retirada a frase "crime formal / ameaça crível", que não estava confirmada como palavras do voto.
