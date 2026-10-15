@@ -2,13 +2,13 @@
 
 ---
 
-## ROTEIRO 1 — PAES DISSE QUE RESPEITAVA A DECISÃO. CINCO DIAS DEPOIS, FOI AO STF. A LEI ESTÁ DO LADO DE QUEM?
+## ROTEIRO 1 — PAES DISSE QUE RESPEITAVA A DECISÃO. SEIS DIAS DEPOIS, FOI AO STF. A LEI ESTÁ DO LADO DE QUEM?
 
 *Solo · até 3 minutos · gancho → fato rápido → lei → o outro lado → opinião*
 
 ### GANCHO
 
-“Decisão judicial a gente respeita.” Foi o que o Eduardo Paes disse no dia 8. Cinco dias depois, o partido dele foi ao Supremo pedir segundo turno no Rio. E eu vou te mostrar por que, juridicamente, esse pedido briga com a própria lei eleitoral.
+“Decisão judicial a gente respeita.” Foi o que o Eduardo Paes disse no dia 8. Seis dias depois, o partido dele foi ao Supremo pedir segundo turno no Rio. E eu vou te mostrar por que, juridicamente, esse pedido briga com a própria lei eleitoral.
 
 ### O FATO
 
@@ -45,13 +45,13 @@ E você, acha que o Rio deveria ter segundo turno? Comenta aqui. Segue o Dr. Rya
 
 ---
 
-## ROTEIRO 2 — ATÉ A OAB PEDIU QUE O PROCURADOR-GERAL SAÍSSE DO CASO MASTER. ELE FICOU. E AGORA DEFENDE A VOLTA DO CHEFE DA PF
+## ROTEIRO 2 — ATÉ A OAB PEDIU QUE O PROCURADOR-GERAL FICASSE FORA DA INVESTIGAÇÃO. ELE FICOU. E AGORA DEFENDE A VOLTA DO CHEFE DA PF
 
 *Solo · até 3 minutos · gancho → fato rápido → lei → o outro lado → opinião*
 
 ### GANCHO
 
-O procurador-geral da República é citado numa mensagem atribuída ao Vorcaro. O diretor-geral da PF também. Até a OAB pediu que o procurador-geral não atuasse no caso. Ele ficou. E agora defende a volta do diretor da PF ao cargo. Isso pode? Vamos pra lei.
+O procurador-geral da República é citado numa mensagem atribuída ao Vorcaro. O diretor-geral da PF também. Até a OAB pediu que o procurador-geral não atuasse na investigação sobre essas mensagens. Ele ficou. E agora defende a volta do diretor da PF ao cargo. Isso pode? Vamos pra lei.
 
 ### O FATO
 
@@ -69,7 +69,7 @@ A PGR diz que não há ato concreto dos dois diretores que justifique o afastame
 
 ### MINHA OPINIÃO
 
-O Conselho do próprio Ministério Público Federal decidiu manter o Gonet no caso por 5 a 4. Quase metade achou que ele deveria sair. Na minha opinião, quem é citado, mesmo que só citado, devia ser o primeiro a se afastar. Não por culpa. Por respeito à investigação e a quem está do lado de fora assistindo.
+O Conselho do próprio Ministério Público Federal rejeitou, por 5 a 4, abrir uma investigação contra o Gonet. Quatro votaram pra aprofundar os fatos. E sobre o afastamento dele, o Conselho disse que não tinha competência pra decidir. Na minha opinião, quem é citado, mesmo que só citado, devia ser o primeiro a se afastar. Não por culpa. Por respeito à investigação e a quem está do lado de fora assistindo.
 
 ### FECHAMENTO
 
@@ -79,7 +79,7 @@ E você, acha que ele deveria se afastar? Comenta aqui. Segue o Dr. Ryan!
 
 - *Afastamento em 8/9/2026 (Pet 16.662, pedido do Novo): Andrei e Almada; a decisão fala em ao menos 6 relatórios de inteligência sobre o relator (3 a 31/8), enviados a Moraes por ofício de Andrei. Fachin suspendeu em 9/9 (SL 1.946, da AGU) até o Plenário. Parecer da PGR na SL 1.946 (13/10): sem ato concreto que justifique o afastamento (paráfrase). É parecer, NÃO recurso.*
 - *Mensagem de 15/11/2025 (relatório da PF): Vorcaro pergunta a contato salvo como Moraes se não daria para 'reverter isso' com 'Paulo' e 'Andrei'; a PF diz que os nomes 'podem indicar' Gonet e Andrei; o relatório não aponta atuação deles; STF (6/3/2026) disse que mensagens atribuídas a Moraes não foram enviadas a ele; Vorcaro nega autenticidade.*
-- *OAB pediu que Gonet não atuasse na petição sobre as mensagens Moraes–Vorcaro, dizendo que o pedido é preventivo e não acusa irregularidade (InfoMoney); associação de delegados (ADPF) pediu o impedimento. Conselho Superior do MPF (25/9/2026): 5 x 4 para manter Gonet e arquivar apuração.*
+- *OAB pediu que Gonet não atuasse na petição sobre as mensagens Moraes–Vorcaro, dizendo que o pedido é preventivo e não acusa irregularidade (InfoMoney); associação de delegados (ADPF) pediu o impedimento. Conselho Superior do MPF (25/9/2026, comunicado oficial do MPF): por unanimidade, declarou não ter competência para decidir a suspeição/afastamento de Gonet (o pedido de afastamento foi tido por prejudicado); por 5 x 4, rejeitou a abertura de investigação (Celso Albuquerque, Alexandre Camanho, Hindemburgo Chateaubriant e Nicolao Dino contra; Janice Ascari, Samantha Dobrowolski e José Adonis Callou e mais um a favor de aprofundar). CORRIGIDO em 15/10: o 5 x 4 NÃO foi votação para manter Gonet no caso. O pedido da OAB foi sobre a petição das mensagens Moraes–Vorcaro.*
 - *Lei 9.266/1996, art. 2º-C; CPP, art. 319, VI (regra geral, não confirmado como fundamento da decisão); CPP, art. 258.*
 - *🟡 Ponto técnico contrário (só para comentários): a PGR e o Dino dizem que partido político não pode pedir medida cautelar penal (CPP, art. 282, § 2º, e art. 3º-A); resposta: o relator tem o dever de proteger a investigação sob sua responsabilidade e o Plenário vai decidir.*
 - *NÃO citar Dark Horse, emendas do filme, nem a viagem do filho de Gonet a Londres. Prazo de 90 dias não confirmado. Perfil pessoal, sem impulsionar; nada novo em 25/10.*
@@ -265,7 +265,7 @@ A Constituição, no artigo 5º, diz: a lei penal não retroagirá, salvo para b
 
 Isso é direito fundamental. Vale pra qualquer preso, de qualquer lado.
 
-E tem mais: toda lei nasce presumida constitucional. Pra suspender uma lei numa ação de inconstitucionalidade, a lei das ações exige a maioria absoluta do plenário. Não um ministro.
+E tem mais: toda lei nasce presumida constitucional. A lei das ações de inconstitucionalidade, no artigo 10, exige a maioria absoluta do Supremo pra suspender uma lei numa dessas ações. Mas aqui a suspensão veio por decisões individuais, nas execuções das penas. E o plenário, até hoje, não decidiu nada.
 
 ### O OUTRO LADO
 
@@ -282,7 +282,7 @@ E você, acha que o STF deveria julgar isso agora? Comenta aqui. Segue o Dr. Rya
 *NOTA INTERNA — NÃO LER NA GRAVAÇÃO*
 
 - *Lei 15.402/2026, promulgada após derrubada do veto. Em 9/5/2026 Moraes suspendeu a aplicação às execuções penais do 8/1 (EPs 41, 134, 100, 102, 43, 52, 61 e 72) até o julgamento das ADIs 7.966 (ABI) e 7.967 (PSOL-Rede) (notícia oficial do STF). Sem data; segundo a TV Globo, ministros preferem julgar depois da eleição.*
-- *CF, art. 5º, XL; CP, art. 2º, parágrafo único; CF, art. 22, I; Lei 9.868/1999, art. 10 (cautelar em ADI por maioria absoluta do Tribunal). ATENÇÃO: a suspensão foi nas execuções penais, não uma liminar formal na ADI; por isso o texto diz 'pra suspender uma lei numa ação de inconstitucionalidade, a lei exige a maioria absoluta' (regra geral) e não afirma que Moraes descumpriu esse artigo. Se comentarem isso: 'o efeito prático é o mesmo: a lei deixou de ser aplicada sem o plenário'.*
+- *CF, art. 5º, XL; CP, art. 2º, parágrafo único; CF, art. 22, I; Lei 9.868/1999, art. 10 (cautelar em ADI por maioria absoluta do Tribunal). CORRIGIDO em 15/10 (apontamento do GPT, que conferiu o andamento no STF): a suspensão foi por decisões individuais nas execuções penais, com base no art. 493 do CPC, no art. 3º do CPP e no art. 21 do RISTF; não foi cautelar formal na ADI. Por isso o texto não afirma que Moraes violou o art. 10. Se comentarem: 'o efeito prático é que a lei deixou de ser aplicada sem decisão do plenário'.*
 - *NÃO mencionar Jair Bolsonaro nem a revisão criminal; não qualificar os atos de 8/1; não repetir acusação. 'Cinco meses' = 9/5 a 15/10.*
 - *Perfil pessoal, sem impulsionar; nada novo em 25/10.*
 
