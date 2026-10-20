@@ -28,6 +28,7 @@ Ninguém aqui é contra o Bolsa Família. O Flávio já disse que mantém. O pro
 
 *NOTA INTERNA — NÃO LER NA GRAVAÇÃO*
 
+- *Precedente para o bloco da lei (indicado pelo GPT): TSE, AI 28353, j. 23/4/2019 — quebra da rotina administrativa para concentrar atos de programa social às vésperas da eleição, com finalidade eleitoreira e gravidade, pode configurar abuso de poder político.*
 - *Reajuste: Decreto 13.120/2026 (17/9/2026), 15,04% (INPC), piso de R$ 600 para R$ 691, efeitos a partir de 1/10 (Agência Brasil; CNN). Gilmar validou em 18/9/2026 no Mandado de Injunção 7.300 (DPU, 2020; arquivado em ago/2024; nova petição da DPU; Fachin enviou ao gabinete de Gilmar como último relator; o gabinete diz que é 'incorreto dizer que o ministro reabriu o processo' — por isso o texto diz 'num processo que estava arquivado desde 2024', fato descrito pelo Poder360). A decisão distingue 2022: 'ampliação temporária de benefícios, criação de novas prestações, antecipação do calendário de pagamentos' (Times Brasil, Conjur 18/9). Tirar print dessa passagem.*
 - *Antecipação: Portaria MDS nº 1.221 (assinada 16/10, DOU 19/10/2026): 'calendário extraordinário' para out/nov/dez; NIS 1 em 19/10, NIS 2 em 20/10, NIS 3 a 0 em 21/10; calendário original ia até 30/10; ~19,3 milhões de famílias; justificativa oficial: super El Niño (518 emergências em ago/set). CONFERIR as datas no DOU antes de gravar (a busca direta não achou a portaria; datas vieram de várias reportagens).*
 - *Lei 9.504/1997, art. 73, § 10 (texto: 'No ano em que se realizar eleição, fica proibida a distribuição gratuita de bens, valores ou benefícios por parte da Administração Pública, exceto nos casos de calamidade pública, de estado de emergência ou de programas sociais autorizados em lei e já em execução orçamentária no exercício anterior...') e inciso IV (uso promocional). TSE (Temas Selecionados): ilícito o 'robusto incremento do programa no ano eleitoral, ainda que previsto em lei e com execução orçamentária prévia'; precedente de cassação por 'quebra da rotina administrativa' (número não confirmado). LC 64/1990, art. 22, XIV e XVI. CE, art. 299: o TSE exige dolo específico de obter voto e eleitor identificável. A frase 'pra mim, isso é abuso de poder e é crime eleitoral' é OPINIÃO do Ryan, por decisão dele (20/10): ele assume o risco. Não há decisão judicial reconhecendo ilicitude; o texto fala do ato, não afirma como fato que uma pessoa cometeu crime.*
@@ -50,7 +51,7 @@ O Alexandre de Moraes acusou o André Mendonça, relator do caso Banco Master, d
 
 ### O QUE DIZ A LEI
 
-A Lei de Abuso de Autoridade diz, com todas as letras: divergência na interpretação da lei ou na avaliação das provas não é abuso. Juiz conduzir investigação de um jeito que outro juiz não gosta não é crime. E acusação de crime precisa de prova. Papel sem assinatura não é prova.
+A Lei de Abuso de Autoridade diz, com todas as letras: divergência na interpretação da lei ou na avaliação das provas não é abuso. Juiz conduzir investigação de um jeito que outro juiz não gosta não é crime. E acusação de crime precisa de prova. E o próprio documento usado pra levantar a suspeita diz que não tem valor de prova.
 
 ### O OUTRO LADO
 
@@ -149,7 +150,7 @@ Agora é oficial: o fim da 6x1 virou emenda à Constituição. Mas não vai exig
 
 A emenda garante dois dias de descanso remunerado por semana, um de preferência no domingo, e jornada máxima de 40 horas. Mas tem transição: em meados de dezembro, a jornada cai pra 42 horas, já com as duas folgas. Um ano depois, pra 40.
 
-E o salário não pode cair. Quem ganha três mil por 44 horas continua ganhando três mil. E o que passar do novo limite vira hora extra, com pelo menos 50% a mais.
+E o salário não pode cair. Quem ganha três mil por 44 horas continua ganhando três mil. E o que passar do novo limite, sem compensação válida, vira hora extra, com pelo menos 50% a mais.
 
 ### O OUTRO LADO
 
@@ -157,7 +158,7 @@ Tem gente dizendo que ninguém mais vai trabalhar sábado e domingo. Não é iss
 
 ### MINHA OPINIÃO
 
-Empregado: até dezembro vale a regra atual, de 44 horas. Empresário: refaça a escala agora, ou vai acumular dívida trabalhista. O descanso é justo. A conta é que não pode cair só em quem gera emprego. Salva e manda pra quem trabalha na 6x1. Segue o Dr. Ryan!
+Empregado: até dezembro vale a regra atual, de 44 horas. Empresário: refaça a escala agora, ou pode acumular dívida trabalhista. O descanso é justo. A conta é que não pode cair só em quem gera emprego. Salva e manda pra quem trabalha na 6x1. Segue o Dr. Ryan!
 
 *NOTA INTERNA — NÃO LER NA GRAVAÇÃO*
 
@@ -218,7 +219,7 @@ RYAN: Não. A emenda proíbe reduzir salário por isso. Ganha três mil por 44 h
 
 VITOR: E se o patrão mandar trabalhar mais que isso?
 
-RYAN: Vira hora extra, com pelo menos 50% a mais.
+RYAN: Se não tiver compensação válida, vira hora extra, com pelo menos 50% a mais.
 
 VITOR: Então comércio vai fechar sábado e domingo?
 
@@ -226,7 +227,7 @@ RYAN: Não. A empresa continua funcionando. Ela vai ter que reorganizar a escala
 
 VITOR: E pro empresário, qual a dica?
 
-RYAN: Refazer a escala agora. Quem deixar pra dezembro vai acumular dívida trabalhista. Salva e manda pra quem trabalha na 6x1. Segue o Dr. Ryan!
+RYAN: Refazer a escala agora. Quem deixar pra dezembro pode acumular dívida trabalhista. Salva e manda pra quem trabalha na 6x1. Segue o Dr. Ryan!
 
 *NOTA INTERNA — NÃO LER NA GRAVAÇÃO*
 
