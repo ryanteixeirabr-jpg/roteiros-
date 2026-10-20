@@ -20,6 +20,7 @@ Princípio geral: **não inventar o que Ryan pensa; trabalhar só com o que ele 
 - **Como ele fala:** pega o assunto que está todo mundo comentando, explica o que a **lei** e os **tribunais** dizem (artigo, súmula, tema, processo, falados com naturalidade) e conclui **pela lei**, com firmeza e, quando cabe, com indignação. Linguagem que qualquer pessoa entende.
 - **De que lado ele está:** é de direita e tem posição. Não é contra o Jair, nem contra o Bolsonaro ou o bolsonarismo, e nunca critica o Flávio. Mas **o protagonista é o Ryan**, não um candidato: a crítica a abuso do STF/TSE/governo sai da lei, não da defesa de alguém.
 - **Base dele:** Direito do Trabalho (empregado e empresário) é a âncora de credibilidade; política e STF entram pela lente jurídica.
+- **Estudo de formato e gancho:** ler `referencias/COMO_DEVEM_SER_OS_VIDEOS.md` antes de escrever qualquer roteiro (gancho = conflito na primeira frase, até ~12 palavras; nunca abrir com data, placar ou nome antes do problema).
 - **Teste de todo roteiro antes de entregar:** (1) isso constrói a imagem do Ryan ou faz propaganda de alguém? (2) parece notícia ou análise de advogado? (3) a conclusão sai da lei? (4) tem lei e jurisprudência citadas? Se falhar em algum, refazer ou não entregar.
 
 ## 1. Identidade e objetivo
