@@ -22,16 +22,16 @@ A Lei das Eleições, no artigo 73, proíbe o governo de distribuir benefício n
 
 O governo diz que é inflação e clima. Mas teve quatro anos e escolheu os dias antes do segundo turno.
 
-### MINHA OPINIÃO
+### CONCLUSÃO
 
-Ninguém aqui é contra o Bolsa Família. O Flávio já disse que mantém. O problema é usar o calendário do benefício como calendário eleitoral. Pra mim, isso é abuso de poder e é crime eleitoral. E eu quero ver se a régua de 2022 vai valer em 2026. Segue o Dr. Ryan!
+Ninguém aqui é contra o Bolsa Família. O Flávio já disse que mantém. O problema é usar o calendário do benefício como calendário eleitoral. E a lei é clara: isso é o que o TSE chama de abuso de poder, e dar vantagem pra conseguir voto é crime. A lei está aí. Quem tem que se explicar é o governo, e quem tem que agir é o TSE. A régua de 2022 vai valer em 2026? Segue o Dr. Ryan!
 
 *NOTA INTERNA — NÃO LER NA GRAVAÇÃO*
 
 - *Precedente para o bloco da lei (indicado pelo GPT): TSE, AI 28353, j. 23/4/2019 — quebra da rotina administrativa para concentrar atos de programa social às vésperas da eleição, com finalidade eleitoreira e gravidade, pode configurar abuso de poder político.*
 - *Reajuste: Decreto 13.120/2026 (17/9/2026), 15,04% (INPC), piso de R$ 600 para R$ 691, efeitos a partir de 1/10 (Agência Brasil; CNN). Gilmar validou em 18/9/2026 no Mandado de Injunção 7.300 (DPU, 2020; arquivado em ago/2024; nova petição da DPU; Fachin enviou ao gabinete de Gilmar como último relator; o gabinete diz que é 'incorreto dizer que o ministro reabriu o processo' — por isso o texto diz 'num processo que estava arquivado desde 2024', fato descrito pelo Poder360). A decisão distingue 2022: 'ampliação temporária de benefícios, criação de novas prestações, antecipação do calendário de pagamentos' (Times Brasil, Conjur 18/9). Tirar print dessa passagem.*
 - *Antecipação: Portaria MDS nº 1.221 (assinada 16/10, DOU 19/10/2026): 'calendário extraordinário' para out/nov/dez; NIS 1 em 19/10, NIS 2 em 20/10, NIS 3 a 0 em 21/10; calendário original ia até 30/10; ~19,3 milhões de famílias; justificativa oficial: super El Niño (518 emergências em ago/set). CONFERIR as datas no DOU antes de gravar (a busca direta não achou a portaria; datas vieram de várias reportagens).*
-- *Lei 9.504/1997, art. 73, § 10 (texto: 'No ano em que se realizar eleição, fica proibida a distribuição gratuita de bens, valores ou benefícios por parte da Administração Pública, exceto nos casos de calamidade pública, de estado de emergência ou de programas sociais autorizados em lei e já em execução orçamentária no exercício anterior...') e inciso IV (uso promocional). TSE (Temas Selecionados): ilícito o 'robusto incremento do programa no ano eleitoral, ainda que previsto em lei e com execução orçamentária prévia'; precedente de cassação por 'quebra da rotina administrativa' (número não confirmado). LC 64/1990, art. 22, XIV e XVI. CE, art. 299: o TSE exige dolo específico de obter voto e eleitor identificável. A frase 'pra mim, isso é abuso de poder e é crime eleitoral' é OPINIÃO do Ryan, por decisão dele (20/10): ele assume o risco. Não há decisão judicial reconhecendo ilicitude; o texto fala do ato, não afirma como fato que uma pessoa cometeu crime.*
+- *Lei 9.504/1997, art. 73, § 10 (texto: 'No ano em que se realizar eleição, fica proibida a distribuição gratuita de bens, valores ou benefícios por parte da Administração Pública, exceto nos casos de calamidade pública, de estado de emergência ou de programas sociais autorizados em lei e já em execução orçamentária no exercício anterior...') e inciso IV (uso promocional). TSE (Temas Selecionados): ilícito o 'robusto incremento do programa no ano eleitoral, ainda que previsto em lei e com execução orçamentária prévia'; precedente de cassação por 'quebra da rotina administrativa' (número não confirmado). LC 64/1990, art. 22, XIV e XVI. CE, art. 299: o TSE exige dolo específico de obter voto e eleitor identificável. Enquadramento pedido pelo Ryan (20/10): 'a lei é clara; quem tem que se explicar é o governo'. O texto descreve a regra e o fato; não há decisão judicial reconhecendo ilicitude até 20/10.*
 - *Ações sem decisão: Renan Santos (TSE, relator Mendonça); Novo (AIJE de 19/10, cassação por 35 medidas); MP junto ao TCU. Zé Trovão: extinta por ilegitimidade (Flávio desautorizou).*
 - *🟡 Comentários: 'Bolsonaro antecipou o Auxílio em 2022' (IN de 3/10/2022) — resposta: 'exatamente; o STF disse que antecipar era problema; regra não tem lado'. Flávio: 'Não vou acabar, eu vou manter'. O vídeo critica o calendário, não o benefício. Perfil pessoal, sem impulsionar; nada novo em 25/10.*
 
@@ -57,9 +57,9 @@ A Lei de Abuso de Autoridade diz, com todas as letras: divergência na interpret
 
 Quem defende o Moraes diz que a investigação foi enviesada. Mas a própria PGR olhou e não viu crime. E lembra: o nome do Moraes aparece em mensagens atribuídas ao Vorcaro, que ele nega ter recebido.
 
-### MINHA OPINIÃO
+### CONCLUSÃO
 
-Na minha opinião, é o retrato do Supremo hoje: quem aparece citado tentando colocar sob suspeita quem investiga. E o julgamento que decide se o Moraes pode ser investigado está parado desde setembro. Decidam logo, em público e com prova. Segue o Dr. Ryan!
+Esse é o retrato do Supremo hoje: quem aparece citado tentando colocar sob suspeita quem investiga. E o julgamento que decide se o Moraes pode ser investigado está parado desde setembro. Que decidam logo, em público e com prova. Segue o Dr. Ryan!
 
 *NOTA INTERNA — NÃO LER NA GRAVAÇÃO*
 
@@ -90,9 +90,9 @@ Em dezembro, o Gilmar Mendes, sozinho, decidiu que só a PGR podia pedir e subiu
 
 Dizem que juiz não pode ser punido pelo conteúdo das decisões. Concordo. Mas os cinco motivos da lei são sobre conduta, não sobre interpretação.
 
-### MINHA OPINIÃO
+### CONCLUSÃO
 
-Na minha opinião, quem pode ser julgado não pode decidir as regras do próprio julgamento. Ninguém pode ser juiz em causa própria. E você, acha que o Senado de 2027 vai julgar? Segue o Dr. Ryan!
+É um princípio básico do Direito: ninguém pode ser juiz em causa própria. Quem pode ser julgado não decide as regras do próprio julgamento. A lei é do Congresso, e quem muda a lei é o Congresso. E você, acha que o Senado de 2027 vai julgar? Segue o Dr. Ryan!
 
 *NOTA INTERNA — NÃO LER NA GRAVAÇÃO*
 
@@ -125,9 +125,9 @@ Opinião e previsão sobre o adversário são livres. Mas o Código Eleitoral, n
 
 Dizem que falar em cortar direitos é opinião sobre o futuro. Só que a opinião foi montada em cima de um fato que não existe mais.
 
-### MINHA OPINIÃO
+### CONCLUSÃO
 
-O TSE precisa de uma régua só. Se é falso dizer que ele é contra, não pode usar a mesma ideia com outra roupa. Manda pra quem ainda acha que ele votou contra. Segue o Dr. Ryan!
+A lei é uma só, e o TSE precisa de uma régua só. Se é falso dizer que ele é contra, não pode usar a mesma ideia com outra roupa. Manda pra quem ainda acha que ele votou contra. Segue o Dr. Ryan!
 
 *NOTA INTERNA — NÃO LER NA GRAVAÇÃO*
 
@@ -156,7 +156,7 @@ E o salário não pode cair. Quem ganha três mil por 44 horas continua ganhando
 
 Tem gente dizendo que ninguém mais vai trabalhar sábado e domingo. Não é isso. A empresa continua funcionando. Ela vai ter que reorganizar a escala, contratar ou pagar hora extra.
 
-### MINHA OPINIÃO
+### NA PRÁTICA
 
 Empregado: até dezembro vale a regra atual, de 44 horas. Empresário: refaça a escala agora, ou pode acumular dívida trabalhista. O descanso é justo. A conta é que não pode cair só em quem gera emprego. Salva e manda pra quem trabalha na 6x1. Segue o Dr. Ryan!
 
@@ -189,7 +189,7 @@ A Constituição reconhece as convenções coletivas. E o STF decidiu que o nego
 
 O Ministério Público diz que é proteção da mulher. Mas a folga continua garantida. Mudou só a frequência do domingo, assinada pelo sindicato da categoria.
 
-### MINHA OPINIÃO
+### NA PRÁTICA
 
 Empregada: leia a convenção da sua categoria. Empresário: escala diferente da CLT só se estiver no acordo coletivo, nunca em acordo individual. Manda pra quem trabalha domingo. Segue o Dr. Ryan!
 
