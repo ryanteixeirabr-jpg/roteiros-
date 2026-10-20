@@ -21,6 +21,11 @@
 Férias · WhatsApp fora do expediente · uniforme · advertência · atestado · vale-transporte · justa causa
 *(conferir se ainda estão saturados nas cartelas recentes antes de reutilizar)*
 
+## Cartela de 20/10/2026 — análises (6 solos, `ROTEIROS_20102026`)
+
+1. Bolsa Família antecipado antes do 2º turno (Gilmar e a distinção de 2022); 2. Moraes acusa Mendonça com relatório sem assinatura e a PGR rejeita; 3. Impeachment de ministro do STF (art. 39 da Lei 1.079 e a liminar de Gilmar); 4. TSE: Flávio votou a favor da 6x1 e propaganda diz que ele corta direitos; 5. EC 141: quando muda o contrato; 6. Folga dominical da mulher (Rcl 95.060, Tema 1.046).
+- Pesquisados e não roteirizados: AIJE de Lula contra a chapa de Flávio por causa da Meta; Cueva barra impulsionamento de Nikolas e Marçal (fraco juridicamente: art. 57-C já limita impulsionamento); Gaspar x Erika Hilton (arriscado); novo inquérito contra Flávio com Moraes (tiro no pé); Deltan sem data; Eduardo e o HC negado por Toffoli.
+
 ## Cartela de 15/10/2026 — repercussão (8 solos, `ROTEIROS_15102026`)
 
 1. Fim da 6x1 aprovado no Senado; 2. Mendonça afasta o chefe da PF e a PGR pede a volta (mensagens atribuídas a Vorcaro); 3. PSD pede 2º turno no Rio (ADPF 1362); 4. Lei da Dosimetria parada no STF; 5. Pacote do MEI a 12 dias da eleição (art. 73 da Lei 9.504); 6. Campanha do Lula x Meta (IA e algoritmo); 7. Fast food como refeição diária (TRT-3); 8. Canabidiol e plano de saúde (STJ).
