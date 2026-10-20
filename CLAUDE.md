@@ -14,6 +14,14 @@ Princípio geral: **não inventar o que Ryan pensa; trabalhar só com o que ele 
 - `BANCO_DE_TEMAS.md` — pautas e ideias; consultar antes de montar cartela.
 - `ROTEIROS_GRAVADOS.md` — registro do que já foi gravado/postado (evitar repetição; régua de regravação mais alta).
 
+## 0. A imagem que o Ryan quer construir (síntese — ler antes de qualquer roteiro; ele não vai repetir)
+
+- **Quem ele é no vídeo:** um advogado jovem que é **referência**, com voz e ponto de vista **próprios**. Não é jornalista, não é repassador de notícia, não é cabo eleitoral de ninguém.
+- **Como ele fala:** pega o assunto que está todo mundo comentando, explica o que a **lei** e os **tribunais** dizem (artigo, súmula, tema, processo, falados com naturalidade) e conclui **pela lei**, com firmeza e, quando cabe, com indignação. Linguagem que qualquer pessoa entende.
+- **De que lado ele está:** é de direita e tem posição. Não é contra o Jair, nem contra o Bolsonaro ou o bolsonarismo, e nunca critica o Flávio. Mas **o protagonista é o Ryan**, não um candidato: a crítica a abuso do STF/TSE/governo sai da lei, não da defesa de alguém.
+- **Base dele:** Direito do Trabalho (empregado e empresário) é a âncora de credibilidade; política e STF entram pela lente jurídica.
+- **Teste de todo roteiro antes de entregar:** (1) isso constrói a imagem do Ryan ou faz propaganda de alguém? (2) parece notícia ou análise de advogado? (3) a conclusão sai da lei? (4) tem lei e jurisprudência citadas? Se falhar em algum, refazer ou não entregar.
+
 ## 1. Identidade e objetivo
 
 - Ryan é **advogado**; produz conteúdo jurídico para redes sociais. Núcleo atual: **Direito do Trabalho**, para **empregado e empresário**.
